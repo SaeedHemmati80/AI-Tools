@@ -2,7 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AITools" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">#0061AE</item>
+        <item name="android:textColorPrimary">@color/white</item>
     </style>
 
     <style name="Theme.AITools" parent="Base.Theme.AITools" />
