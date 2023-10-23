@@ -1,5 +1,6 @@
 package com.example.aitools.adapter
 
+import android.content.Context
 import android.media.Image
 import android.view.LayoutInflater
 import android.view.View
@@ -11,9 +12,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.aitools.R
 import com.example.aitools.models.Tool
 
-class ToolsAdapter(private val lstTools: List<Tool>): RecyclerView.Adapter<ToolsAdapter.ViewHolder>() {
+class ToolsAdapter(private val context: Context, private val lstTools: List<Tool>): RecyclerView.Adapter<ToolsAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ToolsAdapter.ViewHolder {
-        val view = LayoutInflater.from(parent.context).inflate(R.layout.tool_item, parent, false)
+        val view = LayoutInflater.from(context).inflate(R.layout.tool_item, parent, false)
         return ViewHolder(view)
     }
 

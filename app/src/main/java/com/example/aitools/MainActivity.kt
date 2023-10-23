@@ -10,13 +10,13 @@ import com.example.aitools.models.Tool
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
-         binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityMainBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
-        binding.rvTools.adapter = ToolsAdapter(setData())
+        binding.rvTools.adapter = ToolsAdapter(this, setData())
+
     }
 
     private fun setData() = listOf(
@@ -34,4 +34,12 @@ class MainActivity : AppCompatActivity() {
         Tool("Title 1", "Desc", R.drawable.temp_icon),
         Tool("Title 1", "Desc", R.drawable.temp_icon),
     )
+
+    private fun itemClickListener(tool: Tool){
+
+    }
+
 }
+
+
+
