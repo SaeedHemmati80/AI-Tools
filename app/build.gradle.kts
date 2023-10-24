@@ -3,6 +3,7 @@ plugins {
     id("org.jetbrains.kotlin.android")
     id("androidx.navigation.safeargs.kotlin")
     id("kotlin-kapt")
+    id("kotlin-parcelize")
 }
 
 android {
@@ -66,4 +67,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version")
     // DataBinding
     kapt ("androidx.databinding:databinding-compiler:8.1.2")
+
+    implementation ("com.sealwu.jsontokotlin:library:3.7.4")
+    implementation ("com.google.code.gson:gson:2.10.1")
 }

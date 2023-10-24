@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.AITools" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.AITools" parent="Theme.Material3.Light.NoActionBar">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">#0061AE</item>
         <item name="android:textColorPrimary">@color/white</item>

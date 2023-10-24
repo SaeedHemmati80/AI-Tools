@@ -1,0 +1,2360 @@
+[
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Research-Studio-AI-data-transformation-tool.jpg",
+    "title": "Research Studio",
+    "description": "Research Studio was created to help small businesses with limited UX and marketing budgets automate research analysis. It cuts user and customer research time by almost 2 thirds, providing an affordable solution without sacrificing quality.",
+    "price": "Freemium",
+    "hashtags": ["#uxresearch", "#researchanalysis"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.fatfrogmedia.com/file/aitools/DeepBrain-AI-avatar-video-creator-tool.jpg",
+    "title": "DeepBrain",
+    "description": "Generate AI avatar videos in minutes by inputting a script and utilizing the Text-to-Speech feature in over 80 languages. Choose from prebuilt video templates and create professional videos using the user-friendly online video editor.",
+    "price": "Paid",
+    "hashtags": [
+      "#video",
+      "generator",
+      "#ai",
+      "video",
+      "editor",
+      "#custom",
+      "avatar"
+    ],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/HomeDesigns-AI.jpeg",
+    "title": "HomeDesignsAI",
+    "description": "Discover limitless home design possibilities with HomeDesignsAI. Get inspiration and efficient design solutions from photos of your home or proprety. Quickly reimagine interiors, exteriors, gardens, patios, and terraces using AI and 40+ design styles",
+    "price": "Freemium",
+    "hashtags": ["#interiors", "#home", "design"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Adobe-Firefly.jpeg",
+    "title": "Adobe Firefly",
+    "description": "Adobe Firefly offers a versatile, creator-focused Generative AI for content creation and editing across various mediums. Generating custom vectors, brushes, and textures with just a few words or a sketch",
+    "price": "Free",
+    "hashtags": ["#photography", "#AI", "Art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Heights-AI-for-course-creation.jpg",
+    "title": "HEIGHTS AI",
+    "description": "Your course creation copilot. Generate an entire course draft instantly, get catchy title ideas, compelling descriptions, and chat with the AI about improvements, SEO, and growth strategies",
+    "price": "Paid",
+    "hashtags": ["#course", "creation", "#coaches"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670052666361-https---www.manatal.com--LaptopSmall-1670052647742.jpeg",
+    "title": "Manatal",
+    "description": "Recruitment software solution Manatal.com provides organizations with a variety of AI-based tools to facilitate candidate sourcing, tracking, and hiring.",
+    "price": "Paid",
+    "hashtags": ["#hiring", "#hr", "#marketing"],
+    "categories": "Recruitment"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Nekton-automate-tasks-with-AI.jpg",
+    "title": "Nekton AI",
+    "description": "Automate day-to-day business and personal tasks with Nekton AI's plain English workflow. Integrate with thousands of services, build product prototypes, collect user feedback, customize automation tasks, and mix manual and automated steps.",
+    "price": "Freemium",
+    "hashtags": ["#automation", "#workflows"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Fliki-AI-voice-to-video.jpg",
+    "title": "Fliki AI",
+    "description": "Create high-quality videos without compromising on speed and quality. With Fliki, you\u2019ll be able to quickly create videos from blog articles using realistic human-like voices in 75+ languages and 100+ dialects with branded subtitles",
+    "price": "Freemium",
+    "hashtags": ["#text-to-video", "#tts"],
+    "categories": "Generative Video"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Clickup-AI-task-and-project-management.jpg",
+    "title": "Clickup",
+    "description": "ClickUp AI is an intelligent assistant that simplifies complex work processes by streamlining each step of the task, writing content and task details, and adding structure to your documents.",
+    "price": "Freemium",
+    "hashtags": ["#task", "manager", "#automation"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Taskade-AI-task-manager.jpg",
+    "title": "Taskade",
+    "description": "Multiple tools in one. A productivity powerhouse that unifies task management and workflow creation into a sleek tool, offering dynamic workspace formats, intelligent note-taking, and a diligent AI assistant for your professional life.",
+    "price": "Paid",
+    "hashtags": ["#task", "manager"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/WellSaid-Labs-Voiceovers-from-text.jpg",
+    "title": "WellSaid Labs",
+    "description": "AI-based voice generator, effortlessly converts text into speech, offering versatile and captivating voiceovers. Widely trusted, including by industry giants such as Boeing and Peloton, it facilitates multi-collaborator updates, mimics human speech nuances for natural sounding voiceovers.",
+    "price": "Paid",
+    "hashtags": ["#Generative", "audio", "#voiceovers"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/guidde-create-guides-and-tutorials-AI-tool.jpg",
+    "title": "guidde",
+    "description": "Improve business storytelling with stunning onboarding documents, FAQs, and video documentation. Use personalized voice and language selections and auto-generate easy-to-follow workflow descriptions for all your support queries.",
+    "price": "Freemium",
+    "hashtags": ["#AI", "notes", "#dociumentation", "#video"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Rask-localize-videos-with-AI.jpg",
+    "title": "Rask",
+    "description": "Rask is an AI-powered platform that makes video localization easy. You can add voiceovers, subtitles, and dubbing in multiple languages with accurate translations, saving time and effort.",
+    "price": "Paid",
+    "hashtags": ["#localization", "#translation"],
+    "categories": "Video Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/veed-io-AI-video-generation-tool.jpeg",
+    "title": "VEED",
+    "description": "VEED's AI Video transforms storytelling\u2014no camera needed. With a mix of AI tools, stock media, and diverse editing features for easy, high-quality content, you can create professional-grade videos in minutes.",
+    "price": "Freemium",
+    "hashtags": ["#video", "#text-to-speech"],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/reword-AI-article-writer.jpeg",
+    "title": "Reword",
+    "description": "Reword combines AI, collaboration, and research tools to create engaging content, further enhanced with seamless WordPress integration for automatic syncing and updates.",
+    "price": "Paid",
+    "hashtags": ["#generative", "text", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Beehiiv-Artificial-Intelligence-for-newsletters.jpg",
+    "title": "Beehiiv",
+    "description": "Beehiiv is a rapidly growing newsletter platform with powerful AI features for content creation, newsletter personalization, and productivity. Create content automation workflows and optimize for diverse audiences.",
+    "price": "Freemium",
+    "hashtags": [
+      "#newsletters",
+      "#email",
+      "marketing",
+      "#writing",
+      "assistant"
+    ],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/pixlr-ai-graphic-design-tool.jpeg",
+    "title": "Pixlr",
+    "description": "Pixlr is an advanced, web-based graphic design and photo editor with AI-powered features to help you create pro graphics and designs quickly. Remove backgrounds, adjust the look, remove blemishes, and turn your photos into painted ar",
+    "price": "Freemium",
+    "hashtags": ["#art", "#graphics"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/tldv-Ai-meeting-notes-tool.jpg",
+    "title": "tl;dv",
+    "description": "Streamline your meetings and enhance collaboration with tl;dv's automated recording, transcription, and summarization features. Capture and document important points from every meeting.",
+    "price": "Freemium",
+    "hashtags": ["#meetings"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Easy-Peasy-AI-generative-text-and-art-tool.jpg",
+    "title": "Easy Peasy",
+    "description": "Easy content and image creation with a GPT-4 chatbot which intelligently interacts, fetches URLs, and transcribes speech with precision, offering a slick AI-enhanced digital experience.",
+    "price": "Freemium",
+    "hashtags": ["#Generative", "art", "#Chat", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/PromptPal-AI-prompt-engineering.jpeg",
+    "title": "PromptPal",
+    "description": "Innovative tools to help users create engaging prompts for AI platforms like ChatGPT, making their interactions more effective, enjoyable, and geared towards productivity",
+    "price": "Freemium",
+    "hashtags": ["#prompts"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Pipedream-automation-APIs-and-AI-workflows.jpg",
+    "title": "Pipedream",
+    "description": "Pipedream, an efficient, low-code platform, empowers developers to create intelligent workflows and swiftly connect APIs. With the integration of CodeGen A.I., generating Node.js code is easier, making API integration straightforward and effective.",
+    "price": "Freemium",
+    "hashtags": ["#api", "#workflows", "#productivity"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Originality-AI-accurate-AI-content-and-plagiarism-detector.jpg",
+    "title": "Originality AI",
+    "description": "The world's first AI Detector and Plagiarism Checker for content and entire websites. Find out if your content was created using artificial intelligence tools and identify any plagiarism.",
+    "price": "Paid",
+    "hashtags": ["#writing"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SEMrush-AI-outline-builder-for-SEO-content.jpg",
+    "title": "Semrush outline builder",
+    "description": "By combining AI and SEO insights, Semrush's Outline Builder helps craft high-ranking content. With its ready-to-use suggestions, outlines, competitor analyses, and detailed briefs, it simplifies content creation.",
+    "price": "Freemium",
+    "hashtags": ["#marketing", "#writing", "assistant"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Notion-AI-productivity-tool.jpg",
+    "title": "Notion AI",
+    "description": "Notion's AI writing assistant is already embedded in the world's most popular productivity app. It can write entire blog posts or brainstorm ideas. And the AI's capabilities will expand to project management and other areas of productivity and workflow later.",
+    "price": "Freemium",
+    "hashtags": ["#Productivity", "Tools", "#Writing", "Assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/course-AI-create-a-course-with-artificial-intelligence.jpeg",
+    "title": "CourseAI",
+    "description": "Build an online course with an AI assistant that does topic generation, niche selection, module content creation, and quiz generation. Enhance your course with video scripts, voice-overs, and marketing tools automatically.",
+    "price": "Freemium",
+    "hashtags": ["#online", "course", "#websites"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/10Web-AI-Assistant-for-WordPress.jpeg",
+    "title": "10Web",
+    "description": "10Web's AI Website builder and AI content Assistant help you build a website and populate it with high quality, plagiarism-free content thanks to GPT-3 and other large language models.",
+    "price": "Paid",
+    "hashtags": ["#content", "#WordPress", "#assistant"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665850302184-http---tweethunter.io--via=aitools-Laptop Small-1665850301509.jpeg",
+    "title": "Tweet Hunter",
+    "description": "Let AI analyze your tweets, edit your content, rewrite winning tweets, and automatically schedule the best stuff. Get access to millions of viral tweets, AI-powered content suggestions, and advanced scheduling and automation tools.",
+    "price": "Paid",
+    "hashtags": ["#twitter"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665170607954-https---link.aitoolsdirectory.com-anyword-Laptop Small-1665170606879.jpeg",
+    "title": "Anyword",
+    "description": "Tailored, data-driven content for impressive results. Generative writing and ad copy with personalized results. And Anyword's Chrome extension lets you take your audience and performance data anywhere\u2014to ChatGPT, Notion AI (and other APIs) with just one click.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/HoppyCopy-AI-email-campaign-manager.jpg",
+    "title": "HoppyCopy",
+    "description": "Write better emails faster with HoppyCoppy's AI Copy Editor. Generate powerful content for hundreds of campaigns. Get unique ideas and attention-grabbing headlines. Create visually stunning newsletters.",
+    "price": "Paid",
+    "hashtags": ["#email", "marketing", "#newsletters"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665662085368-https---link.aitoolsdirectory.com-removebg-Laptop Small-1665662084813.jpeg",
+    "title": "Remove BG",
+    "description": "Thanks to remove.bg's clever artificial intelligence, you can quickly and easily remove backgrounds from images in 5 seconds or less.",
+    "price": "Paid",
+    "hashtags": ["#background"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Murf-AI-voice-generator-for-professionals.jpg",
+    "title": "Murf",
+    "description": "Voice generator for professional-quality audio. Use Murf's lifelike AI voices for podcasts, videos, and all your professional presentations.",
+    "price": "Freemium",
+    "hashtags": ["#voice"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/siteGPT-ChatGPT-on-your-website.jpeg",
+    "title": "SiteGPT",
+    "description": "Upgrade your website experience with a chatbot that truly understands your content, effortlessly created using SiteGPT. Get a knowledgeable and engaging AI assistant for your visitors",
+    "price": "Paid",
+    "hashtags": ["#website", "#chatbot"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/RankIQ-AI-SEO-software-tool-square.png",
+    "title": "RankIQ",
+    "description": "A comprehensive SEO Toolset with AI baked in. RankIQ is the highest-rated SEO tool in the world that helps you craft perfectly optimized posts, boost traffic, and win Google's love.",
+    "price": "Paid",
+    "hashtags": ["#SEO"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669817681182-https---link.aitoolsdirectory.com-podcastle-LaptopSmall-1669817680670.jpeg",
+    "title": "Podcastle",
+    "description": "Create pro level podcasts with AI-powered editing, AI text-to-speech, auto-leveling, audio transcriptions, and seamless exporting.",
+    "price": "Paid",
+    "hashtags": ["#podcast", "#text-to-speech"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/profile-picture-AI-avatar-generator.jpg",
+    "title": "Profile Picture AI",
+    "description": "Profile Picture AI utilizes artificial intelligence to produce customized and visually appealing images for online identity based on inputs such as uploaded photographs and user preferences. Look amazing on the internet.",
+    "price": "Paid",
+    "hashtags": ["#avatar", "#image"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/2short-AI-YouTube-Shorts-creator.jpg",
+    "title": "2short.ai",
+    "description": "2short.ai effortlessly converts YouTube videos into engaging shorts featuring AI-generated captions, maximizing reach and growing your channel, while the algorithm promotes shorts and AI handles the editing hassle, all for free.",
+    "price": "Free",
+    "hashtags": ["#YouTube", "#Shorts"],
+    "categories": "Video Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Merlin-ChatGPT-on-any-website.jpeg",
+    "title": "Merlin",
+    "description": "A versatile ChatGPT extension that offers AI assistance for tasks such as creating engaging social media content, summarizing lengthy videos or blogs, providing on-demand help, responding to Google queries, and crafting effective emails.",
+    "price": "Paid",
+    "hashtags": ["#chatGPT", "#chatbot"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SE-Ranking-AI-content-marketing-software.jpg",
+    "title": "SE Ranking",
+    "description": "SE Ranking's AI-powered assistant helps SEO experts, marketers, copywriters, and website owners create SEO-friendly content faster. The AI Writer can paraphrase competitors' content, while the Content Idea Finder and Content Editor provide in-depth keyword analysis and content optimization capabilities.",
+    "price": "Paid",
+    "hashtags": ["#content", "assistant", "#marketing"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/teachermatic-teaching-with-AI.jpeg",
+    "title": "TeacherMatic",
+    "description": "AI-fueled teacher-designed platform improving education by automating resource generation, lesson planning, and assessment creation, while ensuring quality and relevance.",
+    "price": "Freemium",
+    "hashtags": ["#teaching", "#learning"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Elementor-AI-website-building.jpg",
+    "title": "Elementor AI",
+    "description": "Elementor AI is the first to natively integrate AI into a website page builder. Generate original text, custom code, and captivating images inside your WordPress website. The tool offers context-specific suggestions, making branding consistent and automating measurements.",
+    "price": "Freemium",
+    "hashtags": ["#websites", "#web", "development"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Shuffll-AI-video-production-virtual-studio.jpg",
+    "title": "Shuffll",
+    "description": "Shuffll turns your video concept into a compelling story, using AI to provide an efficient script in no time. Shuffll harnesses the power of AI for superb visuals and animations\u2014and engages audiences more powerfully than ever before!",
+    "price": "Paid",
+    "hashtags": ["#social", "media", "#explainer", "videos"],
+    "categories": "Generative Video"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Browse-AI-website-extraction-and-scraping-tool.jpg",
+    "title": "Browse AI",
+    "description": "Browse AI simplifies data extraction from websites. No coding required, it allows you to scrape data, monitor changes, integrate with other apps, schedule extraction, create APIs, and automate complex processes.",
+    "price": "Freemium",
+    "hashtags": ["#web", "scraping", "#nocode"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/plagiashield-ChatGPT-detector.jpeg",
+    "title": "Plagiashield",
+    "description": "A plagiarism checker with a specialized ChatGPT detection Chrome extension. Monitor thousands of web pages, identify copycats, and generate DMCA notices to remove infringing material instantly.",
+    "price": "Paid",
+    "hashtags": ["#ChatGPT", "#Plagiarism"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Framer-generate-publish-website-with-AI.jpg",
+    "title": "Framer",
+    "description": "Create elegant, responsive websites from a simple prompt. With a built-in AI copywriter, personalized themes, and intuitive customization features, it effortlessly transforms raw ideas into digital masterpieces.\ud83d\udd25 Get 3 free months on a Pro annual subscription with code partner25proyearly",
+    "price": "Freemium",
+    "hashtags": ["#web", "design", "#websites"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/chat-by-Copy-AI-ChatGPT-alternative.jpg",
+    "title": "Copy AI",
+    "description": "Chat by Copy.ai is probably the best AI content writing software thanks to some unique and incredibly useful features. Real-time data helps research and create long form content. Add your brand voice and improve content in seconds. Rewrite entire paragraphs with a click.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "assistant", "#summarizer"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Process-AI-workflow-automation-tool.jpeg",
+    "title": "Process AI",
+    "description": "Transform manual processes into AI-driven workflows effortlessly with Process AI. Lightning-fast generation, personalized tasks, data analysis, and seamless integration make workflow management easy.",
+    "price": "Paid",
+    "hashtags": ["#workflows", "#automation"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669987380266-https---link.aitoolsdirectory.com-hubspot-ai-LaptopSmall-1669987344637.jpeg",
+    "title": "Hubspot AI",
+    "description": "Hubspot CRM's AI platform and new GPT-3 chat tools makes it easy to optimize content at scale, create new content, discover new leads, perform complex reporting, and write Ogilvy-level marketing campaigns and emails",
+    "price": "Freemium",
+    "hashtags": ["#CRM"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/sudowrite-ai-writing-partner-tool.jpg",
+    "title": "SudoWrite",
+    "description": "Write blog posts faster than before or get your novel or screenplay written with a data-driven muse. Sudowrite specializes in immersive descriptions, scene expansion, draft completion, and simplifying sentence revisions. Features include voice-matching content generation, grammar check, interactive feedback, word discovery, and planning tools like Canvas.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670245657119-https---link.aitoolsdirectory.com-analisa-LaptopSmall-1670245656422.jpeg",
+    "title": "Analisa",
+    "description": "Analisa's Instagram and TikTok AI-analytics tools provides insights into the performance of users' social media accounts, including follower growth, post engagement, and influencer identification.",
+    "price": "Freemium",
+    "hashtags": ["#instagram", "#tiktok"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/typing-mind-better-UI-for-ChatGPT.jpeg",
+    "title": "Typing Mind",
+    "description": "TypingMind, an AI-enhanced tool, marries a superior user interface with ChatGPT's capabilities, offering features like \"chat with PDF\", custom saved prompts, web search, local chat history storage, and the ability to switch AI models instantly.",
+    "price": "Paid",
+    "hashtags": ["#ChatGPT", "#UI", "#Writing", "Assistant"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Frase-AI-SEO-platform.jpg",
+    "title": "Frase",
+    "description": "Research keywords, create content briefs and templates, write and optimize your articles. Create custom AI templates and pre-made SEO-focused tools to win at content marketing. Find industry-specific data points relevant to your topic and inject them into relevant content.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Ai-article-writer-by-Writesonic.jpg",
+    "title": "Writesonic",
+    "description": "Writesonic's new on-brand AI writer meticulously mirrors your brand's voice while delivering fact-checked, SEO-friendly content, all with a no-plagiarism guarantee. . The unlimited plan is 20% cheaper than ChatGPT and 50% cheaper than Jasper.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/InLinks-internal-linking-AI-tool.jpg",
+    "title": "InLinks",
+    "description": "Awarded the Best AI-Driven SEO Tool of 2021, InLinks automates internal links, implements schema markup, and performs intelligent content audits. InLinks AI writing assistant helps you write cotnent, prioritize drafts, interlink current topics, and audit the current content and suggest improvements.",
+    "price": "Freemium",
+    "hashtags": ["#SEO"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Quizgecko-ai-quizzes-instantly.jpeg",
+    "title": "Quizgecko",
+    "description": "Effortlessly create and analyze quizzes and flashcards from text, URLs, or YouTube videos, supporting multiple formats, languages, and files with useful feedback and time-saving features.",
+    "price": "Paid",
+    "hashtags": ["#quiz", "#entertainment"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Creatr-AI-creation-tools-for-entreprneurs.jpg",
+    "title": "Creatr",
+    "description": "Get over 70 of the best AI-based templates for creating article content, blog ideas, blog post intros, ad copy titles, sales page sections, and conclusions. Use chat assistants to automate ecommerce, improve social media presence. Generate captions and hashtags along with scripts!",
+    "price": "Paid",
+    "hashtags": ["#seo", "#influencers", "#amazonstores"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Jasper-best-content-art-AI-generative-tool.jpg",
+    "title": "Jasper",
+    "description": "Generate plagiarism-free blog articles and original SEO content. Test instant copy variations to increase sales & social media engagement.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Riverside-audio-file-transcription.png",
+    "title": "Riverside Audio Transcription",
+    "description": "Riverside's free drag-and-drop transcription tool uses advanced AI from OpenAI to transcribe audio or video files in over 100 languages, with a user-friendly interface capable of processing hour-long interviews in less than 2 minutes",
+    "price": "Free",
+    "hashtags": ["#podcasting", "#video"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Droxy-AI-custom-ChatGPT-chatbots.jpg",
+    "title": "Droxy",
+    "description": "Turn any content into an interactive chatbot for websites and Discord servers, personalized to your brand's style. Ideal for educators, influencers, businesses, learners, and community managers.",
+    "price": "Freemium",
+    "hashtags": ["#chatGPT", "#Discord", "#website"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AI-prompt-library-for-marketers-by-Mailmodo.jpg",
+    "title": "Prompt Hunt",
+    "description": "Prompt Hunt, an AI Library, offers 200 marketing prompts to boost productivity and creativity for SEO, email marketing, and social media.",
+    "price": "Free",
+    "hashtags": ["#prompts", "#SEO", "#writing", "assistant"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Cheatlayer-automations-using-AI-Natural-Language-prompts.jpg",
+    "title": "Cheatlayer",
+    "description": "CheatLayer's AI-powered platform automates business tasks with a language interface. Create apps, games, and websites in minutes, automate social media posting, and enjoy unlimited scraper cheat codes. The custom-trained GPT-4 model, Project Atlas, streamlines complex automation challenges.",
+    "price": "Paid",
+    "hashtags": ["#automation", "#ChatGPT"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/MosaLingua-AI-chat-for-language-learning.jpg",
+    "title": "MosaChat-AI",
+    "description": "MosaChat-AI is an intelligent tutor that allows you to practice languages in real time, giving you feedback on your mistakes and helping you improve your language skills faster.",
+    "price": "Paid",
+    "hashtags": ["#language", "learning"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/surferSEO-next-gen-AI-writing-software.jpg",
+    "title": "Surfer SEO",
+    "description": "SERP-winning content writing with a click. From researching to optimizing articles\u2014it's about driving traffic. Customize, refine, and improve your work with AI. Write and optimize your content in any language, leveraging real-time metrics for structure, word count, NLP-ready keywords, and images.",
+    "price": "Paid",
+    "hashtags": ["#SEO", "#writing"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/TubeBuddy-AI-powered-suggested-shorts-for-YouTube-videos.jpg",
+    "title": "TubeBuddy",
+    "description": "TubeBuddy's Suggested Shorts tool is an AI sidekick that combs through your existing videos, cherry-picking the most engaging bits for you to repurpose into YouTube Shorts.",
+    "price": "Freemium",
+    "hashtags": ["#YouTube", "#Video", "Editing"],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Mr-Scraper-AI-web-scraper-tool.jpg",
+    "title": "Mr Scraper",
+    "description": "MrScraper AI is the ultimate tool for website directory builders, ecommerce owners, data brokers, scientists, and analysts. With rich language models, flexible scrapers, and automatic structure understanding, data extraction becomes effortless. The visual schedule builder, integrated data parser, and API integration make it versatile and powerful.",
+    "price": "Paid",
+    "hashtags": ["#webscraping", "#data", "scraping"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/CopySpace-writing-tool-for-entrepreneurs.jpeg",
+    "title": "CopySpace",
+    "description": "CopySpace is one of the easiest-to-use and most efficient AI copywriting editors for crafting high ROI marketing blogs and copy. It uses advanced copywriting models, supports over 100 languages, offers quick content creation of up to 8000 words, and features over 100 ready-made blogging & marketing tools",
+    "price": "Paid",
+    "hashtags": ["#writing", "assistant", "#SEO", "#marketing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/ChatGPT-open-AI-LLM-language-model.jpg",
+    "title": "ChatGPT",
+    "description": "AI language model ChatGPT is able to answer your questions, provide insightful information, and engage in witty banter. As an impartial and unbiased machine, ChatGPT can offer objective advice and perspectives. Aside from quick and accurate responses, it has a vast knowledge base and can entertain and educate at the same time.",
+    "price": "Freemium",
+    "hashtags": ["#LLM", "#chatbot"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Descript-AI-voice-cloning-overdub-transciption.jpg",
+    "title": "Descript",
+    "description": "Descript's transforms complex audio and video editing into a text-editing task. It can rapidly label speakers, clone voices realistically with Overdub (it removes filler words as well), produce speedy transcripts, remove gaps in recordings without affecting meaning and provide cohesive output by splicing together clips from different sources",
+    "price": "Paid",
+    "hashtags": ["#podcasting", "#transcription"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/ContentShake-unique-content-creator-tool.jpg",
+    "title": "ContentShake",
+    "description": "An SEO-focused, reliable AI content writing assistant backed by SEMrush. Get content ideas, optimize copy with AI, and publish directly to WordPress. Become an expert on any topics without reading all the books.",
+    "price": "Freemium",
+    "hashtags": ["#content", "writing", "#SEO", "#content", "assistant"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Xinva-Creative-Ai-Generated-Designs.jpg",
+    "title": "Xinva",
+    "description": "AI for print on demand. A design generator for print-on-demand workflows. Translate your creative visions into innovative designs, used widely by designers to freelancers.",
+    "price": "Paid",
+    "hashtags": ["#print-on-demand", "#printful", "#printify"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/adcopy-AI-for-ads.jpeg",
+    "title": "adcopy ai",
+    "description": "Write compelling, compliant ads in multiple languages with the help of custom ad-focused AI. From reworking competitors' ads to tailoring creativity levels, supercharge your ad strategy. Enhance your workflow with the Adcopy Chrome extension.",
+    "price": "Paid",
+    "hashtags": ["#Facebook", "ads", "#Instagram", "ads"],
+    "categories": "Advertising"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Simplified-free-AI-copywriting-genetrator.jpg",
+    "title": "Simplified",
+    "description": "Write unique and best-in-class content for blogs, articles, ads, products and websites in just a few clicks. Create content that converts with 50+ templates.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Apify-AI-data-scraping-for-ChatGPT-and-LLMs.jpg",
+    "title": "Apify",
+    "description": "Apify is a no-code platform that simplifies web scraping for AI model training. It integrates with tools like LangChain and Pinecone, streamlining data collection from the web. This enhances AI efficiency, delivers accurate insights, and supports customized AI tool development.",
+    "price": "Freemium",
+    "hashtags": ["#web", "scraping", "#API"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Decktopus-AI-presentations.jpg",
+    "title": "Decktopus",
+    "description": "AI-driven, one-click presentation wizard that personalizes slides, streamlines layouts, and enriches content for standout results.",
+    "price": "Paid",
+    "hashtags": ["#presentations", "#design"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.fatfrogmedia.com/file/aitools/ContentStudio-Social-Media-AI-writer.jpg",
+    "title": "ContentStudio AI Bot",
+    "description": "ContentStudio\u2019s AI Writer simplifies social media content creation with its automated scheduling, discovery and creation tools. It generates engaging captions for images; corrects grammar; adds emojis to hashtags; creates brand-aligned images from scratch & enhances existing content",
+    "price": "Paid",
+    "hashtags": ["#writing", "assistant", "#tiktok", "#Instagram"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Sitespeak-add-ChatGPT-to-your-website.jpg",
+    "title": "SiteSpeakAI",
+    "description": "SiteSpeakAI is a chatbot powered by ChatGPT, offering personalized real-time 24/7 support for your website visitors. It improves customer interaction while optimizing conversions with easy integration and insightful analytics.",
+    "price": "Paid",
+    "hashtags": ["#ChatGPT", "#chatbot", "#customerservice"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669613000542-https---rytr.me--LaptopSmall-1669612999972.jpeg",
+    "title": "Rytr",
+    "description": "Rtyr is the perfect assistant for brainstorming and writing content. And Rytr also now includes an AI image generation tool to accompany your writing.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/codeWP-AI-code-generator-for-WordPress.jpg",
+    "title": "CodeWP",
+    "description": "Stop searching StackOverflow and crawling through forums. Create and test WordPress code snippets directly with the help of AI",
+    "price": "Freemium",
+    "hashtags": ["#WordPress", "#development"],
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Linguix-AI-Grammar-and-spelling-checker-multilingual.jpg",
+    "title": "Linguix",
+    "description": "Linguix is a productivity tool that helps you write better by automatically checking grammar, punctuation, and style using AI-based language NLP",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Castmagic-podcast-show-notes-by-AI.jpg",
+    "title": "Castmagic",
+    "description": "Castmagic converts lengthy audio files into short excerpts that retain the original content's key points. It's particularly helpful for companies trying to grow their business through podcasting and other forms of longform audio content.",
+    "price": "Paid",
+    "hashtags": ["#productivity", "#show", "notes", "#summaries"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/tinyEinstein-email-marketing-AI-for-Shopify.jpeg",
+    "title": "tinyEinstein",
+    "description": "Marketing automation, messaging, and pro-level email marketing with tailor-made templates, one-click complex automations, and automatic email capture for Shopify store owners.",
+    "price": "Paid",
+    "hashtags": ["#Shopify", "#email", "marketing"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Hexomatic-AI-web-scraping-tool.jpeg",
+    "title": "Hexomatic",
+    "description": "Leverage AI to scrape content from any website, find local bus\u0131ness prospects in a few clicks using Google Maps, monitor Amazon for updates on specific products, or bulk create screenshots in any screen size to use in your marketing materials or software.",
+    "price": "Paid",
+    "hashtags": ["#web", "scraping"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/GEN-plus.jpeg",
+    "title": "GenPlus",
+    "description": "GEN plus, a ChatGPT browser extension, helps you automate your online activity, creating high-quality content, sending emails, and searching the web for a wide variety of information.",
+    "price": "Freemium",
+    "hashtags": ["#chatgpt", "#browser"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669619209984-https---www.synthesia.io--LaptopSmall-1669618937764.jpeg",
+    "title": "Synthesia",
+    "description": "AI video creation platform that lets you turn documents, PowerPoints, and PDFs into engaging videos. Create your own avatars or choose from 100 realistic avatars, 130 languages, and 55 video templates.",
+    "price": "Paid",
+    "hashtags": ["#avatar", "#social", "media"],
+    "categories": "Text-to-Video"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Tailwind-social-media-scheduler-AI-writing-tool.jpg",
+    "title": "Tailwind Ghostwriter",
+    "description": "Tailwind App reclaims the scheduling tool throne with its new Ghostwriter feature, offering versatile AI-powered copywriting for SEO, ads, and social media content, saving you time and boosting your marketing game.",
+    "price": "Paid",
+    "hashtags": ["#Pinterest", "#Instagram", "#Copywriting"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AIApply-automatically-apply-for-jobs-with-AI.jpg",
+    "title": "AIApply",
+    "description": "Simplify your job hunt with AI Apply, an AI-powered tool that automates and optimizes your job application process.",
+    "price": "Freemium",
+    "hashtags": ["#jobs", "#airesume", "#jobfinder"],
+    "categories": "Recruitment"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/social-media-on-autopilot-Followr.jpeg",
+    "title": "Followr",
+    "description": "Followr streamlines social media management with AI-powered scheduling, content creation, and analytics for optimized engagement across multiple social media platforms.",
+    "price": "Freemium",
+    "hashtags": ["#Instagram", "#generative", "images"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/altered-studio-AI-voice-editing.jpg",
+    "title": "Altered",
+    "description": "Record, craft, tweak, and control any voice audio professionally. Transform your voice or alter your accent with the finesse of a pro audio studio.",
+    "price": "Paid",
+    "hashtags": ["#voice", "editing"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Munch.jpeg",
+    "title": "Munch",
+    "description": "Munch extracts the most engaging, contextual nuggets from long-form content and presents them as catchy, shareable clips. It uses GPT3, OCR, and NLP to analyze the clip's content and match it with social and marketing trends.",
+    "price": "Paid",
+    "hashtags": ["#video", "#YouTube"],
+    "categories": "Video Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Formula-bot-AI-formula-generator-tool.jpg",
+    "title": "Formula Bot",
+    "description": "Upload, analyze and query your data with AI. Solve your Excel and Google Sheets problems in seconds with AI-generated formula generators. Type questions about your data to unlock insights and generate charts.",
+    "price": "Paid",
+    "hashtags": ["#excel", "#google", "sheets"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/OpusClip-viral-video-clips-by-AI.jpg",
+    "title": "OpusClip",
+    "description": "Transform your videos into engaging shorts with OpusClip's AI-powered tools. Its unique technology identifies key segments, provides viral potential scores, allows keyword-based clipping, and enhances content with emojis and keywords. Ideal for various video types, it supports multiple languages.",
+    "price": "Paid",
+    "hashtags": ["#video", "#shorts", "#virality"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Squirrly-SEO-plugin-for-WordPress.jpg",
+    "title": "Squirrly SEO",
+    "description": "An an all-in-one SEO plugin for WordPress with a new AI content creation feature that builds prompts based on context, right inside of WordPress. You also get keyword research, content optimization, SEO optimization features, technical SEO fixes and suggestions, site audits, rank tracking, and more.",
+    "price": "Paid",
+    "hashtags": ["#SEO", "#WordPress"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669644124136-https---link.aitoolsdirectory.com-grammarly-LaptopSmall-1669644123528.jpeg",
+    "title": "Grammarly",
+    "description": "Grammarly uses artificial intelligence to analyze your writing and make corrections based on context. The powerful AI grammar checker scans your writing for errors as you write so you can make sure everything is perfect",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/CustomGPT-AI-ChatGPT-plugins-nocode.jpg",
+    "title": "CustomGPT",
+    "description": "Build ChatGPT plugins without code. Expand your customer reach by integrating your company\u2019s database on ChatGPT for instant, accurate response to customer queries or creating a search retrieval plugin\u2014thus increasing your operational efficiency exponentially.",
+    "price": "Freemium",
+    "hashtags": ["#ChatGPT", "plugins", "#ChatBots", "#Marketing"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Submagic-AI-captions-for-videos.jpg",
+    "title": "Submagic",
+    "description": "Add life to your videos with accurate transcriptions in 48 languages, trendy templates, enhanced captions with emojis and keyword highlights\u2014all at the touch of a button. It's like waving a magic wand for global content creation",
+    "price": "Paid",
+    "hashtags": ["#subtitles", "#social", "media", "#captions"],
+    "categories": "Video Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/lovo-ai-voice-generation-tool.jpg",
+    "title": "Lovo",
+    "description": "AI voiceover and text to speech platform gives you the ability to create realistic, human-like voices for your project with pronunciation editing, voice speed controls, and voice emotion manipulation.",
+    "price": "Freemium",
+    "hashtags": ["#voice"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/HookSounds-AI-studio-for-soundtracks.jpg",
+    "title": "HookSounds AI Studio",
+    "description": "Make custom, mood-aligned soundtracks for your videos with AI Studio. Instantly analyze your video's unique characteristics and produce smart-synced music, eliminating manual editing. Keep refining until you hit the perfect note.",
+    "price": "Paid",
+    "hashtags": [
+      "#video",
+      "editing",
+      "#royaltyfree",
+      "music",
+      "#music",
+      "generation"
+    ],
+    "categories": "Music"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Feathery-AI-form-builder.jpeg",
+    "title": "Feathery",
+    "description": "Create elegant online forms with unparalleled speed, all while offering deep customization and seamless integration. From intuitive design tools to advanced form logic, Feathery AI is changing the form-building market.",
+    "price": "Freemium",
+    "hashtags": ["#forms", "#onboarding"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Designs-AI.jpg",
+    "title": "Designs ai",
+    "description": "A ceative wonderland of AI-driven tools for every artistic whim, streamlining projects and fueling inspiration for influencers, startups, educators, and beyond.",
+    "price": "Paid",
+    "hashtags": ["#text-to-voice", "#graphic", "design"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Podium-AI-copywriter-for-podcast-show-notes.jpg",
+    "title": "Podium",
+    "description": "Podium is an AI-powered copywriter for podcasts. Its unique combination of public AI tools with proprietary tech saves podcasters money and allows them to reach a wider audience\u2014all the while automating their podcast production process.",
+    "price": "Paid",
+    "hashtags": ["#transcription", "#audio"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Adalo-build-apps-with-ChatGPT-built-in.jpg",
+    "title": "Adalo",
+    "description": "Adalo revolutionizes no-code mobile app creation by effortlessly integrating OpenAI's ChatGPT for an enriched, AI-powered user experience.",
+    "price": "Freemium",
+    "hashtags": ["#coding", "#apps", "#development"],
+    "categories": "Nocode"
+  },
+
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/longshot-factual-generative-AI-writing-tool.jpg",
+    "title": "Longshot",
+    "description": "Create captivating articles, auto-blogs inspired by top SERPs and fueled by chatter backed by verified facts. Use a built in fact checker to arm yourself or revamp stale content with Claim Detection.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Crisp-MagicReply-AI-virtual-assistant.jpg",
+    "title": "MagicReply",
+    "description": "MagicReply blends artificial intelligence and human expertise to provide speedy and precise customer service in multiple languages. Leveraging past interactions, it enables agents to deliver exceptional support while seamlessly handling their workloads",
+    "price": "Freemium",
+    "hashtags": ["#customer", "support", "#productivity"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/lalal-stem-and-vocal-isolator-AI-tool.jpg",
+    "title": "Lalal AI",
+    "description": "Cutting-edge vocal removal and music source separation tool for musicians, video editors, marketers, and other people in the creative field. Quick and accurate extraction of vocals, backing, and different instruments from any audio or video.",
+    "price": "Freemium",
+    "hashtags": ["#music", "#vocal", "removal", "#marketing"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/windsor-AI-connect-marketing-data.jpeg",
+    "title": "WindsorAI",
+    "description": "Windsor AI is the tool that connects all your marketing channels together. The marketing attribution technology delivers clear, comprehensive insights into ad spend value and ROI, and gives you full transparency on ad spend effectiveness.",
+    "price": "Freemium",
+    "hashtags": ["#analytics", "#Facebook", "Ads"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/creasquare-social-media.jpeg",
+    "title": "Creasquare",
+    "description": "Creasquare gives entrepreneurs, marketers, and content creators access to the best software for creating and distributing content on social media.",
+    "price": "Freemium",
+    "hashtags": ["#content", "#marketing"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Bitskout-10x-productivity-with-AI.jpg",
+    "title": "Bitskout",
+    "description": "Bitskout offers automated solutions for managing and processing data. The service works with most file types, is flexible in that it can be integrated into existing workflows\u2014and does not require coding to understand content in multiple languages.",
+    "price": "Paid",
+    "hashtags": ["#automation", "#task", "management"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Spell-AI-autonomous-agents.jpg",
+    "title": "Spell",
+    "description": "Use Spell's autonomous AI agents for enhanced productivity - no OpenAI or ChatGPT API key required. Perform multiple tasks simultaneously, create dynamic content, explore diverse templates, and transform processes.",
+    "price": "Paid",
+    "hashtags": ["#Autonomous", "agents", "#tasks"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/xMagic-chat-with-documents-using-AI.jpeg",
+    "title": "xMagic",
+    "description": "xMagic learns from your PDFs, Notion, and TXT files so you can start interactive chats with your documents. Generate document summaries, get answers questions, get direct references to sources, and supports collaborative workspaces for shared projects.",
+    "price": "Freemium",
+    "hashtags": ["#Summarizer", "#AI", "Assistant"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Katteb-AI-Writing-Software.jpeg",
+    "title": "Katteb",
+    "description": "Katteb AI writer verifies information in advance of writing and is capable of covering current affairs. And with the chat feature, you can write content based on real-time data from the internet or YouTube videos. Use saved snippets or uploads to write about specific topics or content based on URLs.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Coda-AI-document-teamwork.jpg",
+    "title": "Coda AI",
+    "description": "With powerful integrations, customizable workflows, and AI-powered features like drafting content and generating tables, Coda AI takes your work to the next level.",
+    "price": "Freemium",
+    "hashtags": ["#docs", "#management"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/textCortex-AI-writing-assistant.jpg",
+    "title": "Text Cortex",
+    "description": "Generate copy for marketing, sales, and websites in a matter of seconds. Leverage cutting-edge AI technology to save on outsourcing costs and speed up your writing process. Integrate with 1000+ platforms.",
+    "price": "Freemium",
+    "hashtags": ["#productivity", "#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Zigpoll-AI-personal-assistant-for-feedback.jpg",
+    "title": "Zigpoll",
+    "description": "Speedy, multilingual, AI-enhanced survey app that's changing how you gain insights, optimize your business, and stay ahead of customer trends.",
+    "price": "Freemium",
+    "hashtags": ["#surveys", "#customerfeedback"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Databerry-chatGPT-agent-your-data.jpeg",
+    "title": "Databerry",
+    "description": "Databerry offers a unique, no-code, AI chatbot solution customized to your specific data for improved business operations. Have intelligent interactions with your documents and offer multilingual support to customers.",
+    "price": "Freemium",
+    "hashtags": ["#websites", "#chatbot", "#nocode"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222054676-https---www.play.ht--via=ffmedia-LaptopSmall-1670221449971.jpeg",
+    "title": "Play.ht",
+    "description": "Transform your text into natural-sounding speech. Create voiceovers for videos, podcasts, & e-learning and use the Text to Speech API to integrate voice synthesis into your applications.",
+    "price": "Paid",
+    "hashtags": ["#text", "to", "voice", "#tts"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Airgram-AI-meeting-notes.jpg",
+    "title": "Airgram",
+    "description": "Airgram helps you manage, record, and summarize your online meetings from Google Meet, Zoom or Microsoft Teams\u2014so that you can concentrate on discussions rather than note-taking.",
+    "price": "Freemium",
+    "hashtags": ["#meetings", "#summarizer", "#productivity"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/GetResponse-AI-email-generator.jpeg",
+    "title": "GetResponse",
+    "description": "AI Email Generator: Create engaging emails in record time with an AI-powered email generator. Boost your email marketing with industry-optimized subject lines and content.",
+    "price": "Freemium",
+    "hashtags": ["#email", "marketing", "#outreach"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669835622334-https---link.aitoolsdirectory.com-quillbot-LaptopSmall-1669835621816.jpeg",
+    "title": "Quillbot",
+    "description": "Quillbot's natural language processing and machine learning tools suggest rephrasing and other improvements to text. Use it to brainstorm ideas, generate summaries, and even create unique articles and essays.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/catbird-image-prompts.jpeg",
+    "title": "Catbird",
+    "description": "Catbird is a free, versatile image generator that crafts dozens of unique images frommultiple models using just one prompt, allowing for endless creativity without any signup hassle.",
+    "price": "Free",
+    "hashtags": ["#text", "to", "image"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Canva-text-to-image-AI-generation-tool.jpg",
+    "title": "Canva Text-to-image",
+    "description": "Generate one-of-a-kind pictures and artwork from a brief description in no time. Turn your wildest ideas into artwork and shareworthy visuals with Canva's new AI tool.",
+    "price": "Freemium",
+    "hashtags": ["#text", "to", "image"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Canva-AI-magic-Write-tool.jpg",
+    "title": "Canva Magic Write",
+    "description": "Magic Write turns Canva's popular design suite into a versatile marketing tool, letting you create quick content for any project. Visually enhance your documents and support long and short form content! Great for team communication!",
+    "price": "Freemium",
+    "hashtags": ["#writing", "assistant", "#marketing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/osher-AI-for-business-wikis.jpeg",
+    "title": "Osher",
+    "description": "Train your custom Business AI by entering a website's domain for scanning, selecting your URLs, and get a knowledge-rich AI for your team, customer support, and business operations. Use your business data to grow!",
+    "price": "Paid",
+    "hashtags": ["#chatbot", "#knowledge", "base"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/cuppa-sh-write-articles-openAI.jpeg",
+    "title": "Cuppa",
+    "description": "Generate SEO-optimized long-form content without the hefty price tag. Simply plug in, create limitless content, choose from affordable plans, and enjoy personalized support at your fingertips.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Sembly-AI-meetings.jpg",
+    "title": "Sembly AI",
+    "description": "A web service for recording, transcription, and generation of smart meeting summaries and meeting minutes for meetings.",
+    "price": "Freemium",
+    "hashtags": ["#productivity"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Booltool-suite-of-AI-tools-for-content-creators.jpeg",
+    "title": "Booltool",
+    "description": "Simplify operations, foster creativity, and elevate quality with this suite of image and written content tools. Key features include precision background removal, image optimization, animated effects, and unique content tools, enhancing both your visuals and narratives.",
+    "price": "Freemium",
+    "hashtags": ["#image", "generation", "#content", "assistant"],
+    "categories": "Graphic Design"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Lunacy-free-AI-design-software-by-icons8.jpg",
+    "title": "Lunacy by Icons8",
+    "description": "Lunacy is a free, versatile UX/UI design app for macOS, Windows, and Linux. It offers AI tools, custom graphics, Figma imports, online/offline modes, prototyping, live webpage editing, and enhanced image manipulation features.",
+    "price": "Freemium",
+    "hashtags": ["#background", "remover", "#Figma", "#avatars"],
+    "categories": "Graphic Design"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/tugan-ai-AI-marketing-messages.jpg",
+    "title": "Tugan",
+    "description": "Generative marketing tool that redefines content creation, transforming URLs into sales or email copy, and offering an efficient alternative to writing from scratch.",
+    "price": "Freemium",
+    "hashtags": ["#generative", "text", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Social-Champ-social-media-scheduler-with-ChatGPT.jpg",
+    "title": "Social Champ AI Suite",
+    "description": "A social media scheduling platform with ChatGPT-powered AI tools for content generation, image creation, sentiment analysis, and online reputation management.",
+    "price": "Freemium",
+    "hashtags": ["#TikTok", "#Instagram", "#Twitter"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/parsio-ai-automation-scraping-and-extraction.jpeg",
+    "title": "Parsio",
+    "description": "Automate data extraction from various documents, streamlining your business while cutting costs and boosting efficiency.",
+    "price": "Freemium",
+    "hashtags": ["#parser", "#automation"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Speak-AI-turn-language-data-into-insights.jpg",
+    "title": "Speak AI",
+    "description": "Crunch text with AI algorithms. Make smarter decisions based on the insights gleaned from data, whether you're doing qualitative research, academic research, marketing research, competitive analysis or digital marketing.",
+    "price": "Paid",
+    "hashtags": ["#audio", "#analytics"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Lyro-by-Tidio-conversational-AI-chatbot.jpg",
+    "title": "Lyro by Tidio",
+    "description": "A unique conversational AI chatbot for customer support like you've never seen it. Faster, less expensive, and better than a human customer support agent.",
+    "price": "Paid",
+    "hashtags": ["#customerservice", "#customersupport", "#chatbot"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Dante-custom-GPT-chatbots.jpg",
+    "title": "Dante",
+    "description": "With your unique data as its foundation, this bespoke GPT-4 chatbot can be easily integrated with  your website or social accounts as well as third-party popular applications.",
+    "price": "Freemium",
+    "hashtags": ["#chatbots", "#Custom", "GPT"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Photo-AI-generated-photographs-by-Pieter-Levels.jpg",
+    "title": "Photo AI",
+    "description": "Photo AI is an AI-powered photo editor and photo suite, offering AI-generated images from uploaded photographs or copycat-style images from freely available photos. It's the world's first AI photographer. And now includes background remover",
+    "price": "Freemium",
+    "hashtags": ["#photography", "#remove", "bg"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222058997-https---bertha.ai--campaign=aitools&ref=7685-LaptopSmall-1670221590506.jpeg",
+    "title": "Bertha AI",
+    "description": "Craft messages that resonate with your customers and drive conversions. Automate the process of generating content and integrate directly with WordPress or any other content management system.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/fineshare-finevoice-AI-voice-changer.jpeg",
+    "title": "FineVoice",
+    "description": "FineVoice is your AI-enabled powerhouse, bringing realism and celebrity panache to your voiceovers, podcasts, and more. This multifaceted tool transforms your audio content with a voice library and user-friendly editing, all while transcribing and recording with precision and speed",
+    "price": "Freemium",
+    "hashtags": ["#AI", "voice", "generator", "#AI", "voice", "changer"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Artsmart-AI-image-generator-2.jpg",
+    "title": "Artsmart AI",
+    "description": "Create visual content that's straight-up stunning without breaking a sweat by entering prompts or simply uploading a photo and watch as the AI produces artwork based on the input.",
+    "price": "Paid",
+    "hashtags": ["#art", "#graphics"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Typefully-AI-writing-tools-for-Twitter.png",
+    "title": "Typefully",
+    "description": "Typefully's Vesper is revolutionizing Twitter content creation with its AI-powered assistance, offering personalized ideas, writing support, and feedback to elevate your tweets and audience engagement.",
+    "price": "Freemium",
+    "hashtags": ["#twitter", "#growth", "tool"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Marketmuse-AI-analysis-SEO-software.jpg",
+    "title": "Marketmuse",
+    "description": "MarketMuse is a content optimization tool that uses artificial intelligence to help SEO professionals create well-crafted, SEO-focused articles that can rank high on search engine results pages.",
+    "price": "Freemium",
+    "hashtags": ["#content", "marketing"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/simple-phones-AI-phone-virtual-assistant.jpeg",
+    "title": "Simple Phones",
+    "description": "SimplePhones is an AI-powered virtual agent ready to handle all your business's telecommunication needs. You can forward or route calls to multiple numbers, send texts or emails to team members with customer requirements, and log calls and transcripts for an in-depth look into customers' behavior",
+    "price": "Paid",
+    "hashtags": ["#phone", "#virtual", "assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/NeuralNewsletter-newsletter-AI-creator.jpg",
+    "title": "NeuralNewsletters",
+    "description": "Create personalized, up-to-date newsletters tailored to your audience's interests, all within minutes and without writing a word - saving you time, money and enhancing subscriber engagement.",
+    "price": "Paid",
+    "hashtags": ["#newsletters"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670052665809-https---pictory.ai--LaptopSmall-1670052628002.jpeg",
+    "title": "Pictory",
+    "description": "A versatile video creation and editing tool that transforms articles, scripts, visuals, and voice into captivating, shareable social media content, while offering customization and high-quality output.",
+    "price": "Paid",
+    "hashtags": ["#social", "media"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Notion-AI-productivity-tool.jpg",
+    "title": "Notion AI",
+    "description": "Notion's AI writing assistant is already embedded in the world's most popular productivity app. It can write entire blog posts or brainstorm ideas. And the AI's capabilities will expand to project management and other areas of productivity and workflow later.",
+    "price": "Freemium",
+    "hashtags": ["#Productivity", "Tools", "#Writing", "Assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/rephrase-AI-rephrasing-tool.jpg",
+    "title": "Rephrase",
+    "description": "Improve your writing and meet specific writing requirements by using one of seven different types of rephrasing in ProWritingAid's newest AI tool. Easily add sensory language, enhance structure and vocabulary. Make your sentences sound more fluent and native-like.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#translation"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Codium-AI-dev-tests-organic-link.jpg",
+    "title": "CodiumAI",
+    "description": "USe CodiumAI's powerful tools to keep your focus to crafting valuable, user-centric features, all while maintaining a bug-free codebase. Bid adieu to the tedious task of manually creating tests.",
+    "price": "Freemium",
+    "hashtags": ["#code", "assistant", "#development"],
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Steve-AI-text-to-video.jpeg",
+    "title": "Steve AI",
+    "description": "A versatile video creation wizard, effortlessly automating scripting, editing, and publishing while transforming text, voice, and photos into vibrant videos, with access to expansive media libraries and the power to convert audio files into dynamic content.",
+    "price": "Freemium",
+    "hashtags": ["#ai", "video", "#animation"],
+    "categories": "Text-to-Video"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/voicify-make-songs-from-your-favorite-artists.jpeg",
+    "title": "Voicify",
+    "description": "AI-powered cover song sorcery, transforming your ideas into hit tunes in the style of iconic artists. Voicify makes AI music covers in the style of your favorite artists in seconds.",
+    "price": "Paid",
+    "hashtags": ["#AI", "Covers", "#remix"],
+    "categories": "Music"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/HypeFury-AI-viral-growth-tool-for-Twitter.jpg",
+    "title": "HypeFury",
+    "description": "HypeFury is a Twitter growth tool that acts as a personal assistant, helping you grow and monetize your Twitter audience.",
+    "price": "Paid",
+    "hashtags": ["#twitter", "#growth", "tool"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Trinka-ai-grammar-checker.jpeg",
+    "title": "Trinka AI",
+    "description": "Trinka is an online grammar checker and language correction AI tool for academic and technical writing. Trinka finds difficult errors unique to academic writing that other grammar checker tools don\u2019t. From advanced English grammar errors to scientific tone and style.",
+    "price": "Freemium",
+    "hashtags": ["#grammar", "checker", "#plagiarism", "checker"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Mubert-AI-music-generation.jpeg",
+    "title": "Mubert",
+    "description": "Mubert is a music app that makes it easy for content creators, artists, developers and brands to create the perfect soundtrack for their content.",
+    "price": "Paid",
+    "hashtags": ["#audiocreation", "#music"],
+    "categories": "Music"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/ChopShop-AI.jpg",
+    "title": "ChopShop",
+    "description": "Turn your long-form video podcasts into share-worthy TikTok videos, Instagram Reels, YouTube Shorts, and more.",
+    "price": "Freemium",
+    "hashtags": ["#Podcasts", "#SocialMedia"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Content-At-Scale-AI-detector-tool.jpg",
+    "title": "Content At Scale",
+    "description": "Free AI content detector will help mitigate the risk of being punished by Google for using AI generated content. Protect yourself with this tool, which uses multiple finely-tuned AI engines, natural language processing, and semantic analysis algorithms.",
+    "price": "Free",
+    "hashtags": ["#detection", "#gpt-3", "#writing"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/GPTkit-AI.jpeg",
+    "title": "GPTkit",
+    "description": "GPTKit is a free, easy-to-use AI text generation detection tool that uses six different methods to accurately identify and classify machine-generated text. It provides reports on the authenticity and reality of the content analyzed",
+    "price": "Freemium",
+    "hashtags": ["#detection", "#gpt-3", "#writing"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AVA-AI-personal-ai-writing-assistant.jpg",
+    "title": "Ava AI",
+    "description": "Ava AI is an AI-powered writing assistant that can generate various types of content in seconds, from blog posts to social media posts. It also offers templates for specific tasks and can co-create entire campaigns with you, streamlining your writing process and increasing productivity",
+    "price": "Paid",
+    "hashtags": ["#writing", "assistant", "#SEO"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Predis-AI-ChatGPT-and-Canva-and-Hootsuite.jpg",
+    "title": "Predis",
+    "description": "Use the Predis AI Social Media Post Generator to create ready-to-publish content in your brand language by identifying keywords and hashtags that are relevant to your business and then automatically generating posts with the right images and content.",
+    "price": "Paid",
+    "hashtags": ["#content", "generation", "#video", "#"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222056666-https---postwise.ai--_get=ffmedia&fp_sid=aitools-LaptopSmall-1670221512946.jpeg",
+    "title": "Postwise",
+    "description": "Utilize this advanced AI Twitter tool's AI to craft, schedule and amplify your content and presence on Twitter. Reach a wider audience and go viral.",
+    "price": "Paid",
+    "hashtags": ["#twitter"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/luna-ai-email-outreach.png",
+    "title": "Luna",
+    "description": "Send personalized emails that get replies with Luna, AI-powered email marketing software that suggests high-quality leads and automates the sending of personalized emails.",
+    "price": "Paid",
+    "hashtags": ["#email", "#productivity"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/process-st-AI-workflows.jpeg",
+    "title": "Process AI",
+    "description": "The world's first Process Management Platform powered by AI.Process Street is now excited to announce the next evolution of its product from a workflow management tool to an AI-powered process platform.",
+    "price": "Freemium",
+    "hashtags": ["#Process", "Management"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Brain-fm-AI-generated-music-for-productivity.jpg",
+    "title": "Brain FM",
+    "description": "Brain.fm provides scientifically proven, patented AI-generated music for focus, relaxation, and sleep. The tailored music stimulates the brain while blending into the background allowing you to manage your energy levels and get more done.",
+    "price": "Paid",
+    "hashtags": ["#music", "#productivity"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Bardeen-AI-automation-tools.jpeg",
+    "title": "Bardeen",
+    "description": "Bardeen is an AI assistant that can automate tedious tasks for you, such as transcribing audio, creating action items from meeting notes, and summarizing long articles.",
+    "price": "Paid",
+    "hashtags": ["#automate", "#assistant"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/GPTzero-AI-detection-tool-image.jpeg",
+    "title": "GPT zero",
+    "description": "Accurate, easy to integrate, and attuned to sniffing out AI-written content, be it in sentences, paragraphs, or whole documents. Trained on a vast corpus of human and AI-generated text, it works effectively across major AI models, acting as your personal truffle pig in the vast forests of online content.",
+    "price": "Freemium",
+    "hashtags": ["#aidetector", "#gptdetector", "#detection"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/hexometer-AI-website-monitoring-sidekick.jpeg",
+    "title": "Hexometer",
+    "description": "Hexometer's sophisticated AI platform monitors your website 24/7 to catch availability, performance, UX, SEO, and server health problems before they lead to a loss in traffic and lost revenue.",
+    "price": "Paid",
+    "hashtags": ["#monitoring"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Hexowatch-website-monitoring-software.jpeg",
+    "title": "Hexowatch",
+    "description": "Stay up-to-date on important changes to your website or your competitor's websites. Create a business around monitoring and watching your competitor's next move.",
+    "price": "Paid",
+    "hashtags": ["#competitor", "monitoring"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Marketing-Mega-Prompts-ChatGPT.jpeg",
+    "title": "Marketing Megaprompts",
+    "description": "A bespoke set of unique prompts from MakerBox designed to fuel innovative marketing strategies, meticulously curated for solopreneurs and indie hackers seeking top-tier quality and personalized solutions.",
+    "price": "Paid",
+    "hashtags": ["#ChatGPT", "#prompts"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Landr-AI-Mastering-tool-for-music-producers.jpg",
+    "title": "Landr",
+    "description": "Landr offers cloud-based AI mastering software that analyzes tracks using AI algorithms to make adjustments to the mix, including EQ, compression, and stereo widening. It also offers an API for partners to integrate AI-powered mastering into their apps and platforms.",
+    "price": "Paid",
+    "hashtags": ["#audio", "mastering", "#music", "production"],
+    "categories": "Music"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Yaara-ai.jpg",
+    "title": "Yaara",
+    "description": "Writing assistant for SEO-driven content, including website copy, headlines, product bullet points, meta descriptions, about us copy, and FAQs. Generate presentations and social media content without calling for a copywriter.",
+    "price": "Paid",
+    "hashtags": ["#writing", "assistant", "#SEO"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/referral-factory-plug-and-play-AI-referral-software.jpeg",
+    "title": "Referral Factory",
+    "description": "Referral Factory is an AI-powered tool that offers you a quick setup of custom or pre-built affiliate marketing programs. It integrates with major CRMs, provides easy referral tracking, and automates rewarding successful referrals.",
+    "price": "Paid",
+    "hashtags": ["#referrals", "#growth"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/logoai-AI-logo-and-brand-design-website.jpg",
+    "title": "Logo AI",
+    "description": "LogoAi is an AI powered logo maker and brand automation platform that can help small businesses create professional logos, design matching identities, and automate brand promotion with on-brand social media content.",
+    "price": "Paid",
+    "hashtags": ["#Logo", "AI", "#Design", "AI"],
+    "categories": "Graphic Design"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Winston-ai-content-detection-tool.jpeg",
+    "title": "Winston ai",
+    "description": "Discover if it's a person or an AI that wrote your content with Winston AI. Detect plagiarism and make sure copy is written by humans",
+    "price": "Freemium",
+    "hashtags": ["#aidetection", "#plagiarism", "#Chatgptdetector"],
+    "categories": "AI Detection"
+  },
+  {
+    "image_url": "https://assets.fatfrogmedia.com/file/aitools/AI-Lawyer.png",
+    "title": "AI Lawyer",
+    "description": "A multilingual, affordable legal assistant providing instant help, document drafting, and contract review.",
+    "price": "Paid",
+    "hashtags": ["#legal", "#assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Scribe-record-processes-for-SOPs-with-AI.jpeg",
+    "title": "Scribe",
+    "description": "Capture processes and generate shareable step-by-step guides with Scribe, revolutionizing documentation and streamlining business operations.",
+    "price": "Freemium",
+    "hashtags": ["#SOPs", "#automation"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/netus-AI-paraphrasing-tool-2.jpg",
+    "title": "Netus AI",
+    "description": "Fine-tune paraphrasing with your own voice while bypassing plagiarism & AI detection. Integrate cutting-edge technology for efficient, high-quality content generation. Upcoming features: plagiarism checker & multilingual support.",
+    "price": "Freemium",
+    "hashtags": ["#aiparaphraser", "#aidetector"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/TalkPal-language-learning-with-AI.jpeg",
+    "title": "TalkPal",
+    "description": "Immerse yourself in lifelike conversations, receive real-time feedback, and enjoy dynamic active listening exercises, powered by an AI language tutor",
+    "price": "Freemium",
+    "hashtags": ["#languagelearning", "#languages"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Blockade-labs.jpg",
+    "title": "Skybox Lab",
+    "description": "Skybox Lab is an AI-powered tool that allows you to generate stunning 360\u00b0 skybox experiences just by entering text prompts. It's perfect for those looking to quickly create immersive virtual spaces",
+    "price": "Free",
+    "hashtags": ["#virtual", "worlds"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669806515422-https---www.adcreative.ai--LaptopSmall-1669806514877.jpeg",
+    "title": "Adcreative.ai",
+    "description": "An ad creation platform that uses artificial intelligence to make high-quality, conversion-focused ad creatives and social media post creatives in a matter of seconds.",
+    "price": "Paid",
+    "hashtags": ["#google", "ads", "#facebook", "ads"],
+    "categories": "Advertising"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222059442-https---www.clickable.so--LaptopSmall-1670221605556.jpeg",
+    "title": "Clickable",
+    "description": "Create ads that are beautiful, consistent with your brand identity, and highly effective at generating conversions. Clickable lets you easily create highly engaging ads that will generate more sales.",
+    "price": "Paid",
+    "hashtags": ["#google", "ads", "#instagram", "ads"],
+    "categories": "Advertising"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Ghostwriter-AI-generative-fiction.jpg",
+    "title": "Ghost Writer",
+    "description": "Hire dead authors to write in a variety of styles - generate stories or content from scratch or rephrase your work quickly and make it remarkable.",
+    "price": "Freemium",
+    "hashtags": ["#Writing", "#Rephrase", "#Fiction"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Insightbase-chat-with-your-database.jpeg",
+    "title": "InsightBaseAI",
+    "description": "Chat effortlessly with your data using InsightBase, an AI tool that turns complex analytics into casual conversations. Uncover valuable insights",
+    "price": "Paid",
+    "hashtags": ["#sql", "#analytics", "#nocode"],
+    "categories": "Business Intelligence"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Bannerbear-automated-image-and-video-creation-API.jpg",
+    "title": "Bannerbear",
+    "description": "BannerBear offers an automated solution for generating social media visuals with no coding required. The Open AI Whisper integration lets you autotranscribe voice and create videos with the text instantly.",
+    "price": "Paid",
+    "hashtags": ["#image", "generation", "#API"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Kreatable-design-studio-for-logos-and-social-ads.jpg",
+    "title": "Kreatable",
+    "description": "Create logos, social media posts, and web ads using features like magic resize, AI writing, image background removal, and brand management. Preview and edit text across platforms in one location.",
+    "price": "Paid",
+    "hashtags": ["#logo", "#socialmedia", "#AI", "#Marketing"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Filmora-ChatGPT-AI-video-creation.jpg",
+    "title": "Filmora",
+    "description": "Create standout videos with Filmora's ChatGPT integration and vast resources for the ultimate video-making experience. Filmora's advanced AI, speech-to-text, and subtitle generator functions provide a professional touch, making it an all-in-one solution for all your video-making needs.",
+    "price": "Paid",
+    "hashtags": ["#video", "editing", "#ChatGPT"],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Podsqueeze-podcast-summaries.jpeg",
+    "title": "Podsqueeze",
+    "description": "Use artificial intelligence transcription technology to create content for your podcast. Simply paste an RSS feed URL, select an episode and let the AI work its magic. Generate show notes, timestamps, newsletters and more instantly.",
+    "price": "Freemium",
+    "hashtags": ["#podcasting", "#audio"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SEO-GPT-from-SEOvendor.jpeg",
+    "title": "SEO GPT",
+    "description": "The AI-driven marketing & SEO tool you've been looking for. With 200+ methods for crafting titles/descriptions, backed by 16 years of marketing expertise, delivering undetectable human-like content that's authentic, credible, and saves time & effort.",
+    "price": "Freemium",
+    "hashtags": ["#Content", "Generator", "#Writing"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Picsart-unique-image-generator-and-enhancer.jpeg",
+    "title": "Picsart",
+    "description": "Picsart delivers AI-powered editing, filters, and images for pro-quality graphics; with video editing, image enhancement, and AI avatars. Available in 30 languages.",
+    "price": "Paid",
+    "hashtags": ["#image", "#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Vidon-AI-video-maker.jpg",
+    "title": "Vidon AI",
+    "description": "Vidon.ai quickly creates engaging social media videos with AI-driven scripting, voiceovers, images, and subtitles, featuring one-click translations, auto resizing, and platform-specific formats through its partnership with ChatGPT.",
+    "price": "Freemium",
+    "hashtags": ["#Text-to-Video"],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Vistasocial-AI-social-media-text-generator.jpg",
+    "title": "Vista Social",
+    "description": "Vista Social, a social media management tool, offers an AI Assistant feature that helps you generate engaging social media posts, paraphrase high-performing posts, and add fact-checked stats. You can also automate responses to comments and mentions with AI-powered content.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "assistant"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Quickpen-ai-writer.jpeg",
+    "title": "QuickPen ai",
+    "description": "60+ templates for unique, high-quality content creation across blogs, ads, emails, and websites, with versatile, plagiarism-free output and improved search rankings.",
+    "price": "Freemium",
+    "hashtags": ["#content", "generation", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Exolyt-TikTok-analytics-and-AI-content-generation.jpg",
+    "title": "Exolyt",
+    "description": "Dominate TikTok with data-driven analytics, growth marketing, and AI-powered content idea generation for businesses and creators.",
+    "price": "Paid",
+    "hashtags": ["#TikTok", "#Content", "Creation"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222057620-https---copymonkey.ai--via=ffmedia-LaptopSmall-1670221545429.jpeg",
+    "title": "CopyMonkey",
+    "description": "Generate keyword-optimized bullet points and descriptions for Amazon listings using smart data and artificial intelligence. Get your ecommerce product listings to the top of Amazon search.",
+    "price": "Paid",
+    "hashtags": ["#amazon", "#SEO"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Neuraltext-content-marketing-with-AI.jpeg",
+    "title": "Neuraltext",
+    "description": "Your content marketing toolbox with keyword research, SERP analysis, and writing engine all rolled into one smart package.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/fireflies-ai-transcribe-automate-meeting-notes.jpg",
+    "title": "Fireflies",
+    "description": "Supercharge meetings with AI notetaking, auto-transcription, platform integration, collaboration tools, real-time knowledge base, performance analytics, and voice-activated workflow automation. Record and transcribe meeting conversations to boost productivity",
+    "price": "Freemium",
+    "hashtags": ["#productivity"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/influencer-marketing-ai.jpeg",
+    "title": "IMAI",
+    "description": "IMAI is the world\u2019s largest influencer marketing database. Using our proprietary AI technology, you can access in depth insights on over 300 million influencers across Instagram, TikTok, Twitter, Twitch, and Youtube. IMAI is the best way to find and activate the perfect influencer for your marketing needs.",
+    "price": "Paid",
+    "hashtags": ["#InfluencerMarketing", "#TikTok", "#Instagram"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Orimon-AI-chatGPT-chatbots.jpg",
+    "title": "Orimon ai",
+    "description": "Orimon's AI chatbot, deployable in under two minutes, offers businesses advanced sales-enabled conversational AI, industry-specific training, and easy integration for improved customer interactions.",
+    "price": "Paid",
+    "hashtags": ["#chatbot", "#gpt4", "#sales"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/PDF-ai-chat-with-any-document.jpeg",
+    "title": "PDF ai",
+    "description": "Chat with any document and PDF using AI. From legal agreements to financial reports, PDF.ai brings your documents to life. You can ask questions, get summaries, find information, and more.",
+    "price": "Free",
+    "hashtags": ["#PDF", "#chat", "#summarizer"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Safuri-AI-coding-assistant.jpeg",
+    "title": "Safuri",
+    "description": "Safurai: a cutting-edge AI coding assistant streamlining the coding process for developers.",
+    "price": "Free",
+    "hashtags": ["#assistant", "#development"],
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/RankPress-AI-Autoblogging-platform.jpg",
+    "title": "RankPress",
+    "description": "ChatGPT/OpenAI-powered Amazon WordPress autoblogging SaaS platform offering AI-enhanced content, 110+ languages, and seamless integrations for unprecedented unique, multicentric autoblogging experiences, complete with future updates and early access pricing.",
+    "price": "Paid",
+    "hashtags": ["#WordPress"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/monkeebrain-ai-content-generator.jpeg",
+    "title": "Monkeebrain",
+    "description": "Write code, generate structured data or decode code snippets. Simplify the creation process and speed up your workflows with this powerful tool",
+    "price": "Paid",
+    "hashtags": ["#custom", "prompts", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Audo-studio-audio-for-podcasts-and-YouTube.jpeg",
+    "title": "Audo",
+    "description": "Audo Studio rapidly enhances audio by eliminating background noise, reducing echoes, and adjusting volume, providing great results for a wide range of users.",
+    "price": "Freemium",
+    "hashtags": ["#YouTube", "#podcasting"],
+    "categories": "Audio"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/vowel-AI-meetings.jpeg",
+    "title": "Vowel",
+    "description": "AI-meeting tool with instant AI-meeting summaries, AI-action items, recording, live transcript, search across meeting content, bookmarks, notes, clips, and more.",
+    "price": "Freemium",
+    "hashtags": ["#meetings"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222058055-https---www.sheetai.app--LaptopSmall-1670221560057.jpeg",
+    "title": "Sheet AI",
+    "description": "This Google sheets plugin uses ChatGPT to transform your text instructions for an Excel or Google Sheet list into an auto-generated formula. Automate data analysis, generate formulas, summarize content, and more.",
+    "price": "Freemium",
+    "hashtags": ["#Google", "sheets", "#excel"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/mixo-ai-website-builder.jpg",
+    "title": "Mixo",
+    "description": "With just a brief description of your idea, Mixo will generate your entire website content in seconds. Great for pre-launching products, gathering insights, building waiting lists, running beta testing programs or just validating new product ideas.",
+    "price": "Paid",
+    "hashtags": ["#AI", "Builder", "#marketing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/User-Evaluation-website-research-tool.jpeg",
+    "title": "User Evaluation",
+    "description": "Enhance consumer research efficiency and depth with this versatile tool for market researchers and customer-focused teams.",
+    "price": "Paid",
+    "hashtags": ["#UX", "#Research"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/crear-ai-content-writing-tool.jpeg",
+    "title": "Crear AI",
+    "description": "Unleash your inner content wizard with Crear.ai, transforming thoughts into snappy captions, blog posts, and more at lightning speed.",
+    "price": "Freemium",
+    "hashtags": ["#content", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Elephas-personal-AI-writing-assistant-for-Mac-and-iOS.jpg",
+    "title": "Elephas",
+    "description": "Elephas is an AI assistant that helps you write faster and better across Mac, iPhone, and iPad. It offers different writing modes, including professional, friendly, viral, and persuasive, and features like generating Excel formulas, presentations, and viral headlines.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#MacOS"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Sanebox-AI-email-optimization-software.jpeg",
+    "title": "Sanebox",
+    "description": "SaneBox identifies important messages, but it also hides distractions, banishes annoying senders, and reminds you of emails that need a response. Make sure only important emails reach your inbox.",
+    "price": "Paid",
+    "hashtags": ["#productivity", "#email"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222055260-https---looka.grsm.io-aitools5564-LaptopSmall-1670221465706.jpeg",
+    "title": "Looka",
+    "description": "Instantly create ready-to-use logo mockups, adn have full control over tweaking them however you'd like with the drag-and-drop editor.",
+    "price": "Paid",
+    "hashtags": ["#logo"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Github-copilot-AI-coding-partner.jpg",
+    "title": "Github Autopilot",
+    "description": "Autopilot takes a lot of grunt work and hassle out of coding by suggesting snippets of code to developers - learning from its experiences and adapting to new coding styles as it goes along. With Autopilot, coders can write code faster and more accurately",
+    "price": "Paid",
+    "hashtags": ["#coding", "assistant", "#dev"],
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Luma-AI-luma-labs-3d-generation.jpg",
+    "title": "Luma AI",
+    "description": "Luma AI, created by Luma Labs, is an app and service that uses neural rendering technology to capture 3D images with only a few photos",
+    "price": "Free",
+    "hashtags": ["#3D", "#image", "generation"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Playground-AI-image-generator.jpg",
+    "title": "Playground AI",
+    "description": "Generate artwork, social media posts, presentations, posters, videos, logos and more with intuitive design tools and a simple user interface",
+    "price": "Free",
+    "hashtags": ["#image", "#design"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/caspar-ai.jpeg",
+    "title": "Caspar AI",
+    "description": "Caspar's Chrome extension helps you generate summaries, simplify complex topics, and make work more manageable. The Open AI processing provides article summaries instantly, streamlining professional workflows for personal and work use.",
+    "price": "Free",
+    "hashtags": ["#summarizer"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/GetGenie-AI-WordPress-SEO-plugin.jpeg",
+    "title": "GetGenie",
+    "description": "Genie is an AI-powered WordPress plugin that allows users to perform multiple tasks such as keyword analysis, SERP competitor analysis, blog post and sales copy writing, title variation generation, meta description creation, introductory paragraphs creation and social media copy writing. Genie also offers product description and paragraph rewriter features.",
+    "price": "Freemium",
+    "hashtags": ["#WordPress", "#SEO"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1664962945333-https---hotpot.ai-art-maker-Laptop Small-1664962912096.jpeg",
+    "title": "Hotpot",
+    "description": "Just tell AI what to do and watch as it produces images in various styles, from classic art like Van Gogh to photorealistic graphics.",
+    "price": "Freemium",
+    "hashtags": ["#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Magick-AI-Writer.jpg",
+    "title": "MagickPen",
+    "description": "Intelligent writing assistant for drafting articles, generating content ideas, and exploring various content styles.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "assistant", "#SEO"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/ContentBot-paraphraser-content-writer.jpg",
+    "title": "ContentBot",
+    "description": "A content writing powerhouse. Get automatic AI blog posts, blog topic ideas, intros, bullet point expansion, tone changer, paraphrasing tool or generate up to 250 words at a time with the click of a button! You can even write in any language with ContentBot's support of over 110 languages.",
+    "price": "Paid",
+    "hashtags": ["#summarizer"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/lilybank-ai-writing-tool.jpeg",
+    "title": "Lilybank ai",
+    "description": "An AI-driven platform for businesses to create diverse, tailored content quickly and efficiently, supporting 25+ languages and multiple tones.",
+    "price": "Freemium",
+    "hashtags": ["#seo", "#content", "generator", "#image", "generator"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1664962943848-https---creator.nightcafe.studio--Laptop Small-1664962710182.jpeg",
+    "title": "Nightcafe Studio",
+    "description": "fast, free, and easy app uses cutting-edge artificial intelligence to help you create amazing artworks",
+    "price": "Paid",
+    "hashtags": ["#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670321982863-https---wordplay.ai--via=aitoolsdirectory-com-LaptopSmall-1670321982190.jpeg",
+    "title": "WordPlay",
+    "description": "Craft content in bulk to save hundreds of hours with WordPlay. Everything from social media blurbs to full blog posts. Your creations can be scheduled and published easily with WordPlay's WordPress plugin",
+    "price": "Paid",
+    "hashtags": ["#writing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.fatfrogmedia.com/file/aitools/Google-Workspace-and-AI.jpg",
+    "title": "Google Workspace",
+    "description": "Google Workspace is a cloud-based productivity and collaboration suite with AI capabilities, such as Smart Compose, grammar suggestions, voice typing, portrait restore, Smart Reply, and live transcription in Google Meet.",
+    "price": "Paid",
+    "hashtags": ["#Google", "#communication"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1664963263862-https---www.craiyon.com--Laptop Small-1664963077818.jpeg",
+    "title": "Craiyon",
+    "description": "If you're looking for an AI model that can draw images from any text prompt, Craiyon is a great option. The model is trained using Google TRC and is capable of generating impressive images.",
+    "price": "Free",
+    "hashtags": ["#text", "to", "image"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SocialBee-AI-captions-and-Image-generation-for-social-media.jpeg",
+    "title": "SocialBee",
+    "description": "SocialBee's AI-powered post generator creates social media posts based on your preferred topics and keywords, saving you time and effort, and helps to keep a consistent and impactful social media presence.",
+    "price": "Paid",
+    "hashtags": ["#automation", "#Instagram", "#TikTok"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222090002-https---www.creaitor.ai--ref=ffmedia&fp_sid=aitool-LaptopSmall-1670222031879.jpeg",
+    "title": "Creaitor",
+    "description": "Creaitor is a smart AI assistant that can write content for you. It saves you time and gets rid of writer's block! You can use presets to get started or create your own, then let Creaitor do the rest.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/kafkai-SEO-article-writing-service-powered-by-AI.jpeg",
+    "title": "Kafkai",
+    "description": "Kafkai is an advanced AI Content Generator that creates unique content at a much more affordable rate than many writing services.",
+    "price": "Paid",
+    "hashtags": ["#article", "generator", "#writing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1664968395671-https---filmstro.com--Laptop Small-1664968242060.jpeg",
+    "title": "Filmstro",
+    "description": "Make your filmmaking process more efficient. Filmstro is a a set of AI-powered tools that can help you with things like story development, music composition, and sound design.",
+    "price": "Paid",
+    "hashtags": ["#music"],
+    "categories": "Video Generation"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222086031-https---airoomplanner.com--LaptopSmall-1670221648768.jpeg",
+    "title": "AI Room Planner",
+    "description": "Enjoy a room that looks like it was designed by a professional without having to break the bank. get hundreds of interior design ideas for every room in your home. Completely free and with no limit",
+    "price": "Free",
+    "hashtags": ["#architecture"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222055723-https---www.midjourney.com--LaptopSmall-1670221480795.jpeg",
+    "title": "Midjourney",
+    "description": "Midjourney's AI is trained on a dataset of works from artists such as Vincent van Gogh and Pablo Picasso. These inputs are applied to new images based on your prompts. Get original, unique, and beautiful artwork in seconds.",
+    "price": "Paid",
+    "hashtags": ["#art", "#graphics"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AISEO-AI-copywriting-assistant.jpeg",
+    "title": "AISEO",
+    "description": "AISEO offers paraphrasing and readability improver tools as well as NLP that works with the SEO-focused content generator. Write short or long form. There's a Chrome extension to help you write faster in any app.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665169397471-https---lexica.art--Laptop Small-1665169380244.jpeg",
+    "title": "Lexica",
+    "description": "AI image Stable Diffusion search engine",
+    "price": "Free",
+    "hashtags": ["#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665170607426-https---wellsaidlabs.com--Laptop Small-1665170579925.jpeg",
+    "title": "WellSaid",
+    "description": "Create realistic AI voiceovers for all your digital content in real time",
+    "price": "Paid",
+    "hashtags": ["#voice"],
+    "categories": "Text-to-Voice"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665383810720-https---riku.ai--ref=fatfrogmedia-Laptop Small-1665383810223.jpeg",
+    "title": "Riku",
+    "description": "Build AI models without code\u2014and then use them through integrations, API, or public share links. Create high-quality content for your website or blog",
+    "price": "Paid",
+    "hashtags": ["#writing"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Todoist-AI-assistant.jpg",
+    "title": "Todoist AI Assistant",
+    "description": "Todoist's new AI-assistant integration can help you attain your goals by generating a list of tasks, making them more actionable, breaking them down into more manageable steps, and providing tips on how to achieve them.",
+    "price": "Freemium",
+    "hashtags": ["#task", "manager", "#todo", "list"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Soofy-AI-language-learning-software.jpg",
+    "title": "Soofy",
+    "description": "Get unique and interesting conversation starters and vocabulary building tools, as well as grammar, reading comprehension, AI language chatbot, and pronunciation lessons to help you learn a language faster.",
+    "price": "Paid",
+    "hashtags": ["#languages", "#education"],
+    "categories": "Education"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669619211197-https---pfpmaker.com--LaptopSmall-1669619209488.jpeg",
+    "title": "Profile Pic Maker",
+    "description": "Elevate your profile game with PFPMaker: upload your finest shots, explore various styles, and stand out with a unique blend of creativity and personal flair!",
+    "price": "Freemium",
+    "hashtags": ["#avatar", "#StableDiffusion", "#profile"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Gummysearch-AI-marketing-on-Reddit.jpg",
+    "title": "Gummysearch",
+    "description": "GummySearch offers an AI pattern finder to help businesses market their products on Reddit. The tool allows businesses to quickly analyze multiple Reddit posts and comments to identify trends that are relevant to their business.",
+    "price": "Freemium",
+    "hashtags": ["#marketing", "#Reddit"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669629996850-https---thishousedoesnotexist.org-bj-curved-stone--LaptopSmall-1669629876082.jpeg",
+    "title": "This House Does Not Exist",
+    "description": "This House Does Not Exist generates realistic images of modern houses through latent text-to-image diffusion. Great for website owners looking for royalty-free images of homes.",
+    "price": "Free",
+    "hashtags": ["#architecture"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669630706925-https---link.aitoolsdirectory.com-adzooma-LaptopSmall-1669630706416.jpeg",
+    "title": "Adzooma",
+    "description": "Adzooma's AI analytics engine helps you run professional Google and Facebook ad campaigns in just minutes per day with zero experience.",
+    "price": "Freemium",
+    "hashtags": ["#google", "ads", "#facebook"],
+    "categories": "Advertising"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669792053141-https---www.lately.ai--LaptopSmall-1669792052582.jpeg",
+    "title": "Lately",
+    "description": "Lately is a social media tool that uses artificial intelligence to learn about your audience and generate content that fits their interests and needs.",
+    "price": "Paid",
+    "hashtags": null,
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669821578069-https---www.tabnine.com--LaptopSmall-1669821577495.jpeg",
+    "title": "Tabnine",
+    "description": "AI assistant for software developers. Tabnine is a context-aware code completion tool that suggests the most relevant choices for you as you type.",
+    "price": "Freemium",
+    "hashtags": null,
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://p190.p3.n0.cdn.getcloudapp.com/items/Z4umJg4g/802c73e8-b9e7-4838-afa3-8f402ce3cbcd.png?source=viewer&v=7623b6ca29d2f91be870686a03f55de1.jpg",
+    "title": "Adobe Sensei",
+    "description": "Adobe Sensei is a set of artificial intelligence tools that help digital designers create more engaging and  better-performing designs. Design faster and more efficiently.",
+    "price": "Paid",
+    "hashtags": null,
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Wavel-AI-assistant-for-video.jpeg",
+    "title": "Wavel AI",
+    "description": "Wavel AI is an all-in-one platform that speeds up video creation with realistic voiceovers, multilingual dubbing, and accurate subtitles, helping you reach a global audience efficiently.",
+    "price": "Freemium",
+    "hashtags": ["#voiceovers", "#video"],
+    "categories": "Text-to-voice"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Novel-AI-book-writing-tool.jpg",
+    "title": "NovelAI",
+    "description": "NovelAI uses Artificial Intelligence to help writers and storytellers pen their finest works. Using a proprietary Natural Language Processing (NLP) platform, authors can now access a GPT-powered sandbox and let their imagination run wild.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669980650452-https---www.peppertype.ai--LaptopSmall-1669980649863.jpeg",
+    "title": "Peppertype.ai",
+    "description": "With one click, turn ideas into high-quality articles for email blasts, landing pages, social media posts. Analyze your existing content and create new, engaging content for your audience.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AI-Engine-by-leadpages.jpeg",
+    "title": "Leadpages AI Engine",
+    "description": "Leadpages' AI Engine is a new product that allows for automated copywriting, saving users time and effort in creating effective, high-quality copy.",
+    "price": "Paid",
+    "hashtags": ["#landing", "pages"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.fatfrogmedia.com/file/aitools/digital-first-marketing-AI.jpeg",
+    "title": "DigitalFirst",
+    "description": "Create and execute marketing plans in seconds using a library of 500+ strategies as well as Funnel Management, Dashboard, Tactical Flow, Content Generation, and Marketing Planning tools",
+    "price": "Paid",
+    "hashtags": ["#content", "generation", "#marketing", "#planning"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1669980459235-https---zyro.com--LaptopSmall-1669980421457.jpeg",
+    "title": "Zyro",
+    "description": "Zyro is a drag-and-drop, intuitive website builder equipped with an interactive and minimalistic interface that enables users to create and design a website without coding knowledge",
+    "price": "Paid",
+    "hashtags": null,
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222051339-https---photosonic.writesonic.com--LaptopSmall-1670221273664.jpeg",
+    "title": "Photosonic",
+    "description": "Generate realistic or artistic images from a text description. Photosonic uses cutting-edge text-to-image models based on latent diffusion which generate random noise image to match the text, with adjustable quality, diversity, and style.",
+    "price": "Paid",
+    "hashtags": null,
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670052664777-https---artflow.ai--LaptopSmall-1670052597168.jpeg",
+    "title": "Artflow",
+    "description": "Artflow.ai is an AI-powered app that allows users to effortlessly turn their creative ideas into animated stories. The app uses AI and machine learning algorithms to generate portraits based on short, textual input from the user, making it easy to create visuals with just a creative idea.",
+    "price": "Freemium",
+    "hashtags": ["#graphic", "design"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://p190.p3.n0.cdn.getcloudapp.com/items/eDunLnrk/aec80cb7-732a-4429-9814-2f28c75a0022.png?source=viewer&v=36ce0ad4f1bb504c66af0f8bd651537f",
+    "title": "Character AI",
+    "description": "A type of chatbot that neural language models to create the illusion of an intelligent conversation partner. You write the first part of a conversation, and the computer writes the next part.",
+    "price": "Free",
+    "hashtags": ["#avatar"],
+    "categories": "Chat"
+  },
+  {
+    "image_url": "https://p190.p3.n0.cdn.getcloudapp.com/items/d5uybKY0/78551786-ab9f-4025-9e7b-0ff000c6ac3f.png?source=viewer&v=f429fec402d151bceefbe78b77b44a60",
+    "title": "Durable",
+    "description": "Harness the power of Al to create an online presence for your solo business. Generate a website, automate marketing, and manage finances.",
+    "price": "Freemium",
+    "hashtags": ["#nocode"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222051830-https---www.poised.com--LaptopSmall-1670221288874.jpeg",
+    "title": "Poised",
+    "description": "AI-powered communication coach. Get real-time feedback on everything from the words you use to your level of confidence, energy, and empathy in presentations and online meetings",
+    "price": "Freemium",
+    "hashtags": ["#presentations"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222053270-https---soundraw.io--LaptopSmall-1670221402557.jpeg",
+    "title": "Soundraw",
+    "description": "Create unlimited royalty-free songs by simply selecting a mood, genre and length. It's perfect for video creators who want to match their song to their video. [get 15 tracks for free with code KEITH]",
+    "price": "Freemium",
+    "hashtags": ["#music", "#sound", "design"],
+    "categories": "Music"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222054203-https---gomoonbeam.com--via=ffmedia-LaptopSmall-1670221436384.jpeg",
+    "title": "Mooonbeam",
+    "description": "Whether you're writing an essay, a story, an article, a blog, or other lengthy material, Moonbeam provides you with insights (and content) to produce the best content on the topic.",
+    "price": "Freemium",
+    "hashtags": ["#productivity", "#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222058522-https---nichesss.com--LaptopSmall-1670221573365.jpeg",
+    "title": "Nichesss",
+    "description": "Nichesss uses natural language processing, deep learning, and machine learning algorithms to generate high-quality content quickly and efficiently.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222059918-https---whatthediff.ai--LaptopSmall-1670221619964.jpeg",
+    "title": "What The Diff",
+    "description": "What-the-Diff's AI model breaks down your Github code changes into understandable chunks, increasing the accuracy and speed of review. Save time on software development change reviews.",
+    "price": "Freemium",
+    "hashtags": ["#github", "#productivity"],
+    "categories": "Coding"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222087191-https---cleanvoice.ai--LaptopSmall-1670221693646.jpeg",
+    "title": "Cleanvoice",
+    "description": "Make your audio recordings sound more professional and polished with Cleanvoice's advanced algorithm to detect and eliminate unnecessary filler sounds.",
+    "price": "Paid",
+    "hashtags": ["#podcast"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222088171-https---withpoly.com--LaptopSmall-1670221847354.jpeg",
+    "title": "Poly",
+    "description": "Utilize Poly's innovative AI technology to equip yourself with an unlimited library of completely original, creative, high-resolution, fully-custom, commercially-licensed textures",
+    "price": "Freemium",
+    "hashtags": ["#textures"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222088629-https---glasp.co-ai-writing-LaptopSmall-1670221862371.jpeg",
+    "title": "Glasp",
+    "description": "Social web highlighter. Stay up to date on the web and teach your AI models how to learn from what you like.",
+    "price": "Freemium",
+    "hashtags": ["#marketing"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222089063-https---letterdrop.com--LaptopSmall-1670221877830.jpeg",
+    "title": "Letterdrop",
+    "description": "Letterdrop is a platform that automates your content workflow across SEO, social media and email to help you create more of the right content\u2014and close more deals.",
+    "price": "Paid",
+    "hashtags": ["#writing", "#automation"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1670222090490-https---paragraphai.com--ref=ffmedia&tm_subid1=ait-LaptopSmall-1670222050004.jpeg",
+    "title": "Paragraph AI",
+    "description": "A powerful AI-powered writing tool for producing high-quality content, ParagraphAI offers you all the assistance you need and helps you write better content by making suggestions, editing and proofreading your work.",
+    "price": "Freemium",
+    "hashtags": ["#writing", "#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/https---www.dimensions.ink--via=aitoolsdirectory-c-LaptopSmall-1670261367790.png",
+    "title": "Dimensions",
+    "description": "Transform rough sketches, photos, or even plain text into eye-catching designs in just a few clicks. Go from sketches to high-detailed concepts in no time. Make your creative vision a reality.",
+    "price": "Paid",
+    "hashtags": ["#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://p190.p3.n0.cdn.getcloudapp.com/items/llug4Z9E/f8cd32b8-5725-4835-b648-9ce1c278bb15.png?source=viewer&v=4b22b23bbe77424c1d1083c51c396063",
+    "title": "Hiver",
+    "description": "Collaborate with customers and colleagues on generic email addresses and benefit from the world's first multi-channel helpdesk. Make collaboration easier and more efficient",
+    "price": "Paid",
+    "hashtags": ["#gmail", "#customer", "service"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AISEO-art-image-generator.jpeg",
+    "title": "AISEO Art",
+    "description": "One of the fastest AI image generators. Tweak and modify any image, generate any kind of photo or picture. Create eye-catching visuals with ease.",
+    "price": "Paid",
+    "hashtags": ["#art", "#graphics"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Motiva-AI-email-marketing-automation-software.jpeg",
+    "title": "Motiva",
+    "description": "Motiva is an AI-powered sales enablement platform that helps sales teams close more deals. It offers a suite of tools to help sales reps find the right leads, build relationships, and close deals.",
+    "price": "Paid",
+    "hashtags": ["#assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/fylm-ai-color-grading-professional-tools.jpeg",
+    "title": "FYLM.ai",
+    "description": "Fylm.ai is an online service that provides photographers with a colour grading tool powered by artificial intelligence. The tool allows users to correct their photos with ease and precision, producing Hollywood-quality results.",
+    "price": "Paid",
+    "hashtags": ["#graphics"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Procys-invoice-processing-by-artificial-intelligence.jpeg",
+    "title": "Procys",
+    "description": "Automate the process of manually processing documents by automatically extracting invoice data quickly and accurately with the help of AI. Free up time and resources you need to focus on your business and stay ahead of the competition.",
+    "price": "Paid",
+    "hashtags": ["#business", "administration"],
+    "categories": "Automation"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Swag-AI.jpeg",
+    "title": "Swag AI",
+    "description": "SwagAI is a tool that helps companies create unique and creative swag for their customers, by using artificial intelligence to provide them with helpful tips and suggestions.",
+    "price": "Free",
+    "hashtags": ["#marketing", "#promotion"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/ChatGPT-writer.jpeg",
+    "title": "ChatGPT Writer",
+    "description": "ChatGPT Writer is a free Chrome extension that uses artificial intelligence to generate entire emails, messages, and sales pitches on your behalf.",
+    "price": "Free",
+    "hashtags": ["#email"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Emailmagic-AI.jpeg",
+    "title": "Email Magic",
+    "description": "EmailMagic AI uses an advanced data analysis process to match writing style. Revise emails up to five times before choosing your perfect pitch.",
+    "price": "Paid",
+    "hashtags": ["#email"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Ecommerce-Prompts-AI-tools.jpeg",
+    "title": "Ecommerce Prompts",
+    "description": "Ready-made content prompts for ecommerce marketers to help you set up your store and marketing campaigns in less than an hour",
+    "price": "Paid",
+    "hashtags": ["#ecommerce"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Hotreach-ai.jpeg",
+    "title": "Hotreach AI",
+    "description": "Hotreach Linkedin prospecting tool helps you send personalized intros to your leads, saving you time and increasing the likelihood of conversion.",
+    "price": "Paid",
+    "hashtags": ["#Linkedin", "#marketing"],
+    "categories": "Marketing"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1665661788924-https---www.deepl.com-translator-Laptop Small-1665661772985.jpeg",
+    "title": "DeepL",
+    "description": "Translate instantly from one language to another with DeepL. Translate documents, webpages and apps in seconds",
+    "price": "Freemium",
+    "hashtags": ["#language"],
+    "categories": "Translation"
+  },
+  {
+    "image_url": "1670052665284-https---www.beautiful.ai--LaptopSmall-1670052612511.jpeg (1024\u00d71200) (storage.googleapis.com)",
+    "title": "Beautiful.ai",
+    "description": "A revolutionary presentation software that uses artificial intelligence to make creating presentations a breeze. Quickly and easily create stunning presentations",
+    "price": "Paid",
+    "hashtags": ["#presentations"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/nanonets-OCR-automation-for-business.jpeg",
+    "title": "Nanonets",
+    "description": "Nanonets is a AI-powered software that can read semi-structured documents and extract data quickly and accurately. It can learn from each document processed, allowing users to customize fields and integrate with existing workflows.",
+    "price": "Paid",
+    "hashtags": ["#automation", "#assistant"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Inworld-AI.jpeg",
+    "title": "Inworld",
+    "description": "Inworld is a platform for developers to create realistic and believable characters powered by artificial intelligence for games, entertainment, virtual worlds, digital workforce and more. Easily configure the characters' personalities, speaking style, voice, memories and emotions.",
+    "price": "Freemium",
+    "hashtags": ["#characters", "#virtual"],
+    "categories": "Gaming"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/visily-app-wireframes.jpeg",
+    "title": "Visily",
+    "description": "Visily offers pre-designed templates and AI-based tools to quickly convert images or sketches into fully customizable wireframes.",
+    "price": "Free",
+    "hashtags": ["#design"],
+    "categories": "Image Editing"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Automata.jpeg",
+    "title": "Automata",
+    "description": "AI-powered Content Repurposing Templates to help marketers repurpose blogs and videos into LinkedIn posts, Twitter threads, newsletters, and more.",
+    "price": "Paid",
+    "hashtags": ["#social", "media", "#newsletters"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Reflect-AI-notetaking.jpeg",
+    "title": "Reflect",
+    "description": "Online note-taking app that provides end-to-end encryption, calendar integration, publishing, instant capture, frictionless search, and backlinked notes.",
+    "price": "Paid",
+    "hashtags": ["#note", "taking"],
+    "categories": "Productivity"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Fathom-AI-podcast-player.jpeg",
+    "title": "Fathom",
+    "description": "iOS app with AI-powered podcast episode search and tailored recommendations. Highlights of favorite episodes and chapters, plus full transcripts.",
+    "price": "Free",
+    "hashtags": ["#podcast", "#consumer"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Podium-for-podcasters.jpeg",
+    "title": "Podium",
+    "description": "Episode description summaries, quotable moments highlighted, AI-generated chapters, titles, and summaries, and transcripts for podcasters",
+    "price": "Paid",
+    "hashtags": ["#podcast", "#audio"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Alfie-AI-editor-for-content-marketers.jpg",
+    "title": "Alfie",
+    "description": "Save time while still creating high-quality content. From generating titles to giving feedback on drafts, Alfie can help you create content faster and more efficiently.",
+    "price": "Freemium",
+    "hashtags": ["#content", "#AI", "writer"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.comm/file/aitools/Magic-Studio.jpg",
+    "title": "Magic Studio",
+    "description": "Create stunning visuals with just a few simple steps with the instant generated profile picture feature, generative image creation, magic eraser tools and smart background eraser.",
+    "price": "Free",
+    "hashtags": ["#image", "#design"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Piggy-content-creator.jpg",
+    "title": "Piggy",
+    "description": "Create content for mobile social feeds instantly. Create unique story-style milti-image content by simply inputting keywords and phrases.",
+    "price": "Free",
+    "hashtags": ["#stories", "#Instagram"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Endless-Visual-Novel-AI-book-writing-tool.jpeg",
+    "title": "Endless VN",
+    "description": "A visual novel-based game in which the characters, dialog, and story are generated for you as you play.",
+    "price": "Freemium",
+    "hashtags": ["#storie", "#content", "generation"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Flowrite-AI-email-inbox-marketing.jpg",
+    "title": "Flowrite",
+    "description": "Flowrite's super clever AI writer and smart templates are designed to make you more efficient and effective at sending emails.",
+    "price": "Freemium",
+    "hashtags": ["#email", "#content", "writer"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SEOPress-AI-meta-titles.jpg",
+    "title": "SEOPress",
+    "description": "SEOPress PRO is a WordPress SEO plugin that integrates with OpenAI to generate automated metadata. Get help creating titles and meta descriptions with AI-driven insights, and save time and money with the bulk actions feature",
+    "price": "Paid",
+    "hashtags": ["#SEO", "#WordPress"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://storage.googleapis.com/hexomatic-screenshot/60ead9f07c491200103fb892/633846f27dd6e800101a60ca/crop-image/1664962945849-https---deepai.org-machine-learning-model-text2img-Laptop Small-1664962926159.jpeg",
+    "title": "Deep AI",
+    "description": "if you ever wanted to see what your words would look like as a piece of art, this is the tool for you",
+    "price": "Free",
+    "hashtags": ["#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Deciphr-podcast-summary-app.jpeg",
+    "title": "Deciphr",
+    "description": "Deciphr is a free AI-powered tool that timestamps and summarizes podcast transcripts in less than 60 seconds. It uses end-to-end encryption to transform transcripts into show notes and timestamps.",
+    "price": "Free",
+    "hashtags": ["#podcasting", "#audio"],
+    "categories": "Podcasting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Tweetmonk-Twitter-AI-tool.jpeg",
+    "title": "TweetMonk",
+    "description": "Write better tweets, grow your audience, and improve your Twitter presence. Tweetmonk's easy-to-use editor, AI-powered writing tools, powerful analytics, and daily inspiration prompts destroy writer's block",
+    "price": "Freemium",
+    "hashtags": ["#twitter", "#marketing"],
+    "categories": "Social Media"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/image-generation-prompt-creator.jpeg",
+    "title": "Midjourney Prompt Generator",
+    "description": "Press \"Generate Styles\" and the Midjourney Random Prompt Generator will create 10 different versions of what you want, with totally different styles, colors, medium, technique, and much more!",
+    "price": "Free",
+    "hashtags": ["#midjourney", "#art"],
+    "categories": "Generative Art"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/AIPRM-ChatGPT-prompts.jpeg",
+    "title": "AIPRM",
+    "description": "AIPRM comes with curated prompts to help SEO professionals optimize their websites and boost rankings on search engines.",
+    "price": "Free",
+    "hashtags": ["#chatGPT", "#SEO"],
+    "categories": "SEO"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Maker-AI.jpeg",
+    "title": "Maker AI",
+    "description": "AICreate is a writing and composition tool that allows users to create high quality sales emails in seconds. It uses cutting-edge artificial intelligence to help users write faster and better.",
+    "price": "Paid",
+    "hashtags": ["#photos", "#art", "#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Compose-AI-content-in-Google-docs-and-gmail.jpeg",
+    "title": "Compose AI",
+    "description": "Compose AI is a free Chrome extension that uses AI-powered autocompletion and text generation to help users save time and automate their writing",
+    "price": "Free",
+    "hashtags": ["#writing", "assistant"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/Runway-AI-video.jpeg",
+    "title": "Runway ML",
+    "description": "Gen-1 is a new video generation technique that uses composition and style to create compelling footage out of existing videos. Generate new videos that mimic the structure of your original video",
+    "price": "Freemium",
+    "hashtags": ["#video", "#YouTube"],
+    "categories": "Generative Video"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/PromptLayer-prompt-engineering.jpeg",
+    "title": "PromptLayer",
+    "description": "Track, debug, and replay old completions of the ever-important AI prompts (maintain a log of their prompts and OpenAI API requests - prompt engineering is the future so this will be a huge timesaver)",
+    "price": "Free",
+    "hashtags": ["#prompts", "#ChatGPT"],
+    "categories": "Copywriting"
+  },
+  {
+    "image_url": "https://assets.aitoolsdirectory.com/file/aitools/SkipVid-YouTube-video-Summarizer.jpeg",
+    "title": "SkipVid",
+    "description": "Copy and paste a YouTube link into a field and receive a summary of the video (free for up to 10 minutes)",
+    "price": "Freemium",
+    "hashtags": ["#video", "#YouTube"],
+    "categories": "Productivity"
+  }
+]

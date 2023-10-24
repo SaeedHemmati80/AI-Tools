@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AITools"
         tools:targetApi="31">
         <activity
+            android:name=".CategoryActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailsActivity"
             android:exported="false"
             android:label="@string/title_activity_details"
