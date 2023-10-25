@@ -1,10 +1,7 @@
 package com.example.aitools
 
 import android.content.Intent
-import android.graphics.Bitmap
-import android.graphics.BitmapFactory
 import android.os.Bundle
-import android.util.Log
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
@@ -15,10 +12,6 @@ import com.example.aitools.models.Category
 import com.example.aitools.models.Tool
 import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
-import java.io.IOException
-import java.net.HttpURLConnection
-import java.net.MalformedURLException
-import java.net.URL
 
 
 class MainActivity : AppCompatActivity() {
@@ -83,7 +76,11 @@ class MainActivity : AppCompatActivity() {
 //
 //            val bitmap: Bitmap = loadImage(selected.image_url)
 //            imageButton.setImageBitmap(bitmap)
-            val tool =  Tool(selected.title,selected.description,R.drawable.insta,false)
+
+
+
+
+            val tool =  Tool(selected.title,selected.description, selected.image_url,false)
             insertToolToCategory(tool,selected.categories)
         }
 

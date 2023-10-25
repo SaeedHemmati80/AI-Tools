@@ -70,4 +70,8 @@ dependencies {
 
     implementation ("com.sealwu.jsontokotlin:library:3.7.4")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.0.1")
+
+    // Picasso
+    implementation ("com.squareup.picasso:picasso:2.8")
+
 }
