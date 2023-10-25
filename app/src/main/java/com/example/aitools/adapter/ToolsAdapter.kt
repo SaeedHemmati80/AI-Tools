@@ -4,11 +4,13 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.ImageButton
+import android.widget.ImageView
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.example.aitools.R
 import com.example.aitools.databinding.ToolItemBinding
 import com.example.aitools.models.Tool
+import com.squareup.picasso.Picasso
 
 class ToolsAdapter(
     private val context: Context,
@@ -24,7 +26,6 @@ class ToolsAdapter(
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.bind(lstTools[position], clickListener)
-
         // OnClick for star
         holder.favImg.setOnClickListener {
             if (!lstTools[position].fav) {
@@ -43,11 +44,10 @@ class ToolsAdapter(
 class ViewHolder(private val binding: ToolItemBinding) :
     RecyclerView.ViewHolder(binding.root) {
     val favImg: ImageButton = itemView.findViewById(R.id.img_star)
+    val img_tool: ImageView = itemView.findViewById(R.id.img_tools)
     fun bind(tool: Tool, clickListener: (tool: Tool) -> Unit) {
         binding.apply {
-//            tvTitle.text = tool.title
-//            tvDesc.text = tool.desc
-//            imgTools.setImageResource(tool.image)
+
             myTool = tool
 
             if (tool.fav) {
@@ -62,7 +62,7 @@ class ViewHolder(private val binding: ToolItemBinding) :
         }
     }
 
-
+//=====TEMPORARY COMMENTS JUST BECAUSE WE SET VALUES WITH BINDING
 //        val title: TextView = itemView.findViewById(R.id.tv_title)
 //        val desc: TextView = itemView.findViewById(R.id.tv_desc)
 //        val img: ImageView = itemView.findViewById(R.id.img_tools)

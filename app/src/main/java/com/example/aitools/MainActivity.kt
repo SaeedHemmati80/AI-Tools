@@ -28,8 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         //LETS READ JSON FROM STRING===================
         val fileName = "tool_data1.json";
-        val jsonString = application.assets.open(fileName).bufferedReader().use{ it.readText() }
-        val allTools = readJsonObjectsFromString(jsonString)
+        val allTools = readJsonObjectsFromString(fileName)
         //NOW GET UNIQUE CATS FROM all JSONS=========================
         allTools.stream().map {it.categories }
             .distinct()
@@ -53,7 +52,8 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    private fun readJsonObjectsFromString(jsonString:String):List<ToolJsonObject>{
+    private fun readJsonObjectsFromString(fileName:String):List<ToolJsonObject>{
+        val jsonString = application.assets.open(fileName).bufferedReader().use{ it.readText() }
         val objectMapper = ObjectMapper()
         val allTools = objectMapper.readValue<List<ToolJsonObject>>(
             jsonString,
@@ -72,14 +72,6 @@ class MainActivity : AppCompatActivity() {
     private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): List<Tool> {
 
         for(selected in jsonObjects){
-            val imageButton = ImageView(this)
-//
-//            val bitmap: Bitmap = loadImage(selected.image_url)
-//            imageButton.setImageBitmap(bitmap)
-
-
-
-
             val tool =  Tool(selected.title,selected.description, selected.image_url,false)
             insertToolToCategory(tool,selected.categories)
         }

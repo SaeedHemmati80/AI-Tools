@@ -1,18 +1,19 @@
 package com.example.aitools.models
 
 import android.os.Parcelable
+import android.util.Log
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import com.squareup.picasso.Picasso
 import kotlinx.parcelize.Parcelize
 
-@Parcelize
-class Tool(
+//@Parcelize
+data class Tool(
     val title: String,
     val desc: String,
     var image: String,
     var fav: Boolean = false
-) : Parcelable {
+){
     companion object {
         @JvmStatic
         @BindingAdapter("android:loadURLImageView")

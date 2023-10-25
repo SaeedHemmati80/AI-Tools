@@ -6,11 +6,13 @@ plugins {
 
 buildscript {
     val agp_version by extra("8.1.2")
+    val agp_version1 by extra("7.4.2")
+    val agp_version2 by extra("8.1.2")
     repositories {
         google()
     }
     dependencies {
-        val nav_version = "2.7.1"
+        val nav_version = "2.7.4"
         classpath("androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version")
     }
 }
