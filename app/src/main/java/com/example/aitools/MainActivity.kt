@@ -61,9 +61,6 @@ class MainActivity : AppCompatActivity() {
         return allTools
     }
 
-
-
-
     private fun initRecyclerViewTools(toolsJsonObject:List<ToolJsonObject>){
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
         binding.rvTools.adapter = ToolsAdapter(this, setData(categoriesMain,toolsJsonObject)){ itemTool: Tool -> itemClickListener(itemTool)}
@@ -75,8 +72,13 @@ class MainActivity : AppCompatActivity() {
             val tool =  Tool(selected.title,selected.description, selected.image_url,false)
             insertToolToCategory(tool,selected.categories)
         }
-
-        return categories[0].tools + categories[1].tools+categories[2].tools
+        val allTools:MutableList<Tool> = mutableListOf()
+        for(category in categories){
+            for(item in category.tools){
+                allTools.add(item)
+            }
+        }
+        return allTools
     }
 
     private fun insertToolToCategory(tool:Tool,category:String){
