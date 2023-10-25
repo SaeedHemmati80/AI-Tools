@@ -56,7 +56,7 @@ dependencies {
 
 
     val nav_version = "2.7.4"
-    val lifecycle_version = "2.6.1"
+    val lifecycle_version = "2.6.2"
 
     // Navigation
     implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
@@ -69,5 +69,5 @@ dependencies {
     kapt ("androidx.databinding:databinding-compiler:8.1.2")
 
     implementation ("com.sealwu.jsontokotlin:library:3.7.4")
-    implementation ("com.google.code.gson:gson:2.10.1")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.0.1")
 }

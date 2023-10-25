@@ -5,6 +5,7 @@ plugins {
 }
 
 buildscript {
+    val agp_version by extra("8.1.2")
     repositories {
         google()
     }
