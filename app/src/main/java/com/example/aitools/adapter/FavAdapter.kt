@@ -12,7 +12,7 @@ import com.example.aitools.databinding.ToolItemBinding
 import com.example.aitools.models.Tool
 
 class FavAdapter(
-    private val lstFavorites:List<Tool>,
+    private var lstFavorites:MutableList<Tool>,
     private val clickListener: (tool: Tool) -> Unit):
     RecyclerView.Adapter<FavAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -36,6 +36,9 @@ class FavAdapter(
                 holder.favImg.setImageResource(R.drawable.star_empty)
             }
             lstFavorites[position].fav = !lstFavorites[position].fav
+            lstFavorites = lstFavorites.filter { it.fav }.toMutableList()
+            notifyDataSetChanged()
+
         }
     }
     class ViewHolder(private val binding: ToolItemBinding)

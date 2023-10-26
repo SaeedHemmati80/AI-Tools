@@ -13,6 +13,7 @@ import com.example.aitools.models.Tool
 
 class FavActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFavBinding
+    private lateinit var adapter: FavAdapter
 
     companion object{
         @JvmStatic
@@ -28,7 +29,8 @@ class FavActivity : AppCompatActivity() {
     }
     fun initFavoriteRecyclerView(){
         binding.rvFavTools.layoutManager = GridLayoutManager(this,2)
-        binding.rvFavTools.adapter = FavAdapter(favorites){itemTool:Tool -> itemClickListener(itemTool)}
+        adapter = FavAdapter(favorites){itemTool:Tool -> itemClickListener(itemTool)}
+        binding.rvFavTools.adapter = adapter
     }
 
     private fun itemClickListener(tool: Tool){
@@ -40,6 +42,11 @@ class FavActivity : AppCompatActivity() {
         intent.putExtra("Image", tool.image)
         startActivity(intent)
 
+    }
+
+    override fun onBackPressed() {
+        MainActivity.adapter.notifyDataSetChanged()
+        super.onBackPressed()
     }
 
 }

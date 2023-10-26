@@ -2,7 +2,6 @@ package com.example.aitools
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.ImageView
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
@@ -18,7 +17,12 @@ import com.fasterxml.jackson.databind.ObjectMapper
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var categoriesMain:MutableList<Category>
-    private var allTools:MutableList<Tool> = mutableListOf()
+
+    companion object{
+        @JvmStatic
+        var allTools:MutableList<Tool> = mutableListOf()
+        lateinit var adapter: ToolsAdapter
+    }
 
 
     @RequiresApi(34)
@@ -49,7 +53,7 @@ class MainActivity : AppCompatActivity() {
 
                 }
                 R.id.fav_menu->{
-                    FavActivity.favorites = this.allTools.filter { it.fav }.toMutableList()
+                    FavActivity.favorites = MainActivity.allTools.filter { it.fav }.toMutableList()
                     val intent = Intent(this, FavActivity::class.java)
                     startActivity(intent)
                     true
@@ -73,7 +77,8 @@ class MainActivity : AppCompatActivity() {
     private fun initRecyclerViewTools(toolsJsonObject:List<ToolJsonObject>){
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
         allTools = setData(categoriesMain,toolsJsonObject)
-        binding.rvTools.adapter = ToolsAdapter(this,allTools ){ itemTool: Tool -> itemClickListener(itemTool)}
+        adapter = ToolsAdapter(this,allTools ){ itemTool: Tool -> itemClickListener(itemTool)}
+        binding.rvTools.adapter = adapter
     }
 
     private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): MutableList<Tool> {
