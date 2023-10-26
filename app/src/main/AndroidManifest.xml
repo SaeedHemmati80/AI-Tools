@@ -15,6 +15,9 @@
         android:theme="@style/Theme.AITools"
         tools:targetApi="31">
         <activity
+            android:name=".CategoryDetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".FavActivity"
             android:exported="false" />
         <activity

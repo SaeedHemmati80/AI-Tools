@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.aitools.adapter.FavAdapter
+import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityFavBinding
 import com.example.aitools.databinding.ActivityMainBinding
 import com.example.aitools.models.Tool
@@ -14,10 +15,10 @@ import com.example.aitools.models.Tool
 class FavActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFavBinding
     private lateinit var adapter: FavAdapter
-
     companion object{
         @JvmStatic
         lateinit var favorites:MutableList<Tool>
+        lateinit var mainToolsAdapter: ToolsAdapter
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         binding = ActivityFavBinding.inflate(layoutInflater)
@@ -45,7 +46,7 @@ class FavActivity : AppCompatActivity() {
     }
 
     override fun onBackPressed() {
-        MainActivity.adapter.notifyDataSetChanged()
+        mainToolsAdapter.notifyDataSetChanged()
         super.onBackPressed()
     }
 

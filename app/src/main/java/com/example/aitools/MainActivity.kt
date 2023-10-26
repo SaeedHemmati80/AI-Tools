@@ -16,13 +16,11 @@ import com.fasterxml.jackson.databind.ObjectMapper
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
-    private lateinit var categoriesMain:MutableList<Category>
+    private lateinit var adapter: ToolsAdapter
+    lateinit var categoriesMain:MutableList<Category>
+    private var allTools:MutableList<Tool> = mutableListOf()
 
-    companion object{
-        @JvmStatic
-        var allTools:MutableList<Tool> = mutableListOf()
-        lateinit var adapter: ToolsAdapter
-    }
+
 
 
     @RequiresApi(34)
@@ -47,13 +45,15 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId){
                 R.id.categories_menu ->{
                     CategoryActivity.categories = categoriesMain
+                    CategoryActivity.mainAdapter = adapter
                     val intent = Intent(this, CategoryActivity::class.java)
                     startActivity(intent)
                     true
 
                 }
                 R.id.fav_menu->{
-                    FavActivity.favorites = MainActivity.allTools.filter { it.fav }.toMutableList()
+                    FavActivity.favorites = this.allTools.filter { it.fav }.toMutableList()
+                    FavActivity.mainToolsAdapter = adapter
                     val intent = Intent(this, FavActivity::class.java)
                     startActivity(intent)
                     true

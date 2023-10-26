@@ -38,7 +38,6 @@ class FavAdapter(
             lstFavorites[position].fav = !lstFavorites[position].fav
             lstFavorites = lstFavorites.filter { it.fav }.toMutableList()
             notifyDataSetChanged()
-
         }
     }
     class ViewHolder(private val binding: ToolItemBinding)
