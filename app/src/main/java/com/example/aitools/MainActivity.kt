@@ -3,6 +3,7 @@ package com.example.aitools
 import android.content.Intent
 import android.os.Bundle
 import android.widget.ImageView
+import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
@@ -17,8 +18,10 @@ import com.fasterxml.jackson.databind.ObjectMapper
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var categoriesMain:MutableList<Category>
+    private var allTools:MutableList<Tool> = mutableListOf()
 
 
+    @RequiresApi(34)
     override fun onCreate(savedInstanceState: Bundle?) {
         binding = ActivityMainBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
@@ -45,6 +48,12 @@ class MainActivity : AppCompatActivity() {
                     true
 
                 }
+                R.id.fav_menu->{
+                    FavActivity.favorites = this.allTools.filter { it.fav }.toMutableList()
+                    val intent = Intent(this, FavActivity::class.java)
+                    startActivity(intent)
+                    true
+                }
                 else -> false
             }
         }
@@ -63,10 +72,11 @@ class MainActivity : AppCompatActivity() {
 
     private fun initRecyclerViewTools(toolsJsonObject:List<ToolJsonObject>){
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
-        binding.rvTools.adapter = ToolsAdapter(this, setData(categoriesMain,toolsJsonObject)){ itemTool: Tool -> itemClickListener(itemTool)}
+        allTools = setData(categoriesMain,toolsJsonObject)
+        binding.rvTools.adapter = ToolsAdapter(this,allTools ){ itemTool: Tool -> itemClickListener(itemTool)}
     }
 
-    private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): List<Tool> {
+    private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): MutableList<Tool> {
 
         for(selected in jsonObjects){
             val tool =  Tool(selected.title,selected.description, selected.image_url,false)

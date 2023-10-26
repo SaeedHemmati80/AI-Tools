@@ -16,7 +16,7 @@ class ToolsAdapter(
     private val context: Context,
     private val lstTools: List<Tool>,
     private val clickListener: (tool: Tool) -> Unit
-) : RecyclerView.Adapter<ViewHolder>() {
+) : RecyclerView.Adapter<ToolsAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val inflater = LayoutInflater.from(context)
         val binding: ToolItemBinding =
@@ -34,32 +34,36 @@ class ToolsAdapter(
                 holder.favImg.setImageResource(R.drawable.star_empty)
             }
             lstTools[position].fav = !lstTools[position].fav
+
         }
     }
 
     override fun getItemCount(): Int {
         return lstTools.size
     }
-}
-class ViewHolder(private val binding: ToolItemBinding) :
-    RecyclerView.ViewHolder(binding.root) {
-    val favImg: ImageButton = itemView.findViewById(R.id.img_star)
-    val img_tool: ImageView = itemView.findViewById(R.id.img_tools)
-    fun bind(tool: Tool, clickListener: (tool: Tool) -> Unit) {
-        binding.apply {
 
-            myTool = tool
+    inner class ViewHolder(private val binding: ToolItemBinding) :
+        RecyclerView.ViewHolder(binding.root) {
+        val favImg: ImageButton = itemView.findViewById(R.id.img_star)
+        val img_tool: ImageView = itemView.findViewById(R.id.img_tools)
+        fun bind(tool: Tool, clickListener: (tool: Tool) -> Unit) {
+            binding.apply {
 
-            if (tool.fav) {
-                imgStar.setImageResource(R.drawable.star_filled)
-            } else
-                imgStar.setImageResource(R.drawable.star_empty)
+                myTool = tool
 
-            // OnClick for view
-            cardTool.setOnClickListener {
-                clickListener(tool)
+                if (tool.fav) {
+                    imgStar.setImageResource(R.drawable.star_filled)
+                } else
+                    imgStar.setImageResource(R.drawable.star_empty)
+
+                // OnClick for view
+                cardTool.setOnClickListener {
+                    clickListener(tool)
+                }
             }
         }
+
+
     }
 
 //=====TEMPORARY COMMENTS JUST BECAUSE WE SET VALUES WITH BINDING
