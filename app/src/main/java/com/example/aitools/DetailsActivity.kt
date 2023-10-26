@@ -1,8 +1,9 @@
 package com.example.aitools
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.aitools.databinding.ActivityDetailsBinding
+import com.squareup.picasso.Picasso
 
 class DetailsActivity : AppCompatActivity() {
     lateinit var binding: ActivityDetailsBinding
@@ -16,12 +17,14 @@ class DetailsActivity : AppCompatActivity() {
 
         val title = bundle?.getString("Title")
         val desc = bundle?.getString("Desc")
-        val imgId = bundle?.getInt("Image")
+        val imgId = bundle?.getString("Image")
 
+        binding.apply {
+            tvTitleDetails.text = title
+            tvDescDetails.text = desc
+            Picasso.get().load(imgId).into(imgDetails)
+        }
 
-        binding.tvTitleDetails.text = title
-        binding.tvDescDetails.text = desc
-        binding.imgDetails.setImageResource(imgId!!)
 
     }
 }
