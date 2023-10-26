@@ -2,7 +2,6 @@ package com.example.aitools
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
@@ -80,7 +79,6 @@ class MainActivity : AppCompatActivity() {
         }
         return allTools
     }
-
     private fun insertToolToCategory(tool:Tool,category:String){
         val category = categoriesMain.filter { it->it.name.equals(category) }.first().tools.add(tool)
     }
