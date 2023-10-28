@@ -3,18 +3,14 @@ package com.example.aitools
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.RecyclerView
-import com.example.aitools.adapter.FavAdapter
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityFavBinding
-import com.example.aitools.databinding.ActivityMainBinding
 import com.example.aitools.models.Tool
 
 class FavActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFavBinding
-    private lateinit var adapter: FavAdapter
+    private lateinit var adapter: ToolsAdapter
     companion object{
         @JvmStatic
         lateinit var favorites:MutableList<Tool>
@@ -30,7 +26,7 @@ class FavActivity : AppCompatActivity() {
     }
     fun initFavoriteRecyclerView(){
         binding.rvFavTools.layoutManager = GridLayoutManager(this,2)
-        adapter = FavAdapter(favorites){itemTool:Tool -> itemClickListener(itemTool)}
+        adapter = ToolsAdapter(this,favorites){itemTool:Tool -> itemClickListener(itemTool)}
         binding.rvFavTools.adapter = adapter
     }
 
