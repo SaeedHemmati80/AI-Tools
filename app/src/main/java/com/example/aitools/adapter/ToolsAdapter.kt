@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.aitools.R
 import com.example.aitools.databinding.ToolItemBinding
 import com.example.aitools.models.Tool
-import com.squareup.picasso.Picasso
 
 class ToolsAdapter(
     private val context: Context,
@@ -48,9 +47,7 @@ class ToolsAdapter(
         val img_tool: ImageView = itemView.findViewById(R.id.img_tools)
         fun bind(tool: Tool, clickListener: (tool: Tool) -> Unit) {
             binding.apply {
-
                 myTool = tool
-
                 if (tool.fav) {
                     imgStar.setImageResource(R.drawable.star_filled)
                 } else
@@ -62,30 +59,5 @@ class ToolsAdapter(
                 }
             }
         }
-
-
     }
-
-//=====TEMPORARY COMMENTS JUST BECAUSE WE SET VALUES WITH BINDING
-//        val title: TextView = itemView.findViewById(R.id.tv_title)
-//        val desc: TextView = itemView.findViewById(R.id.tv_desc)
-//        val img: ImageView = itemView.findViewById(R.id.img_tools)
-//        val favImg: ImageButton = itemView.findViewById(R.id.img_star)
-//        val cardTool: CardView = itemView.findViewById(R.id.cardTool)
-//
-//        fun bind(tool: Tool, clickListener: (tool: Tool) -> Unit) {
-//            title.text = tool.title
-//            desc.text = tool.desc
-//            img.setImageResource(tool.image)
-//            if (tool.fav) {
-//                favImg.setImageResource(R.drawable.star_filled)
-//            } else
-//                favImg.setImageResource(R.drawable.star_empty)
-//
-//            // OnClick for view
-//            cardTool.setOnClickListener {
-//                clickListener(tool)
-//            }
-//        }
-
 }

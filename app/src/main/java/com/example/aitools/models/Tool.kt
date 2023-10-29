@@ -1,13 +1,11 @@
 package com.example.aitools.models
 
-import android.os.Parcelable
-import android.util.Log
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
+import androidx.room.Entity
 import com.squareup.picasso.Picasso
-import kotlinx.parcelize.Parcelize
 
-//@Parcelize
+@Entity(tableName = "tool_tbl")
 data class Tool(
     val title: String,
     val desc: String,
