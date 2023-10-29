@@ -50,8 +50,9 @@ class ToolsAdapter(
                 myTool = tool
                 if (tool.fav) {
                     imgStar.setImageResource(R.drawable.star_filled)
-                } else
+                } else {
                     imgStar.setImageResource(R.drawable.star_empty)
+                }
 
                 // OnClick for view
                 cardTool.setOnClickListener {
