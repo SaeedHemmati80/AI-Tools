@@ -8,11 +8,13 @@ import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityCategoryDetailsBinding
 import com.example.aitools.databinding.ActivityFavBinding
 import com.example.aitools.databinding.ActivityMainBinding
+import com.example.aitools.db.ToolDataBase
 import com.example.aitools.models.Category
 import com.example.aitools.models.Tool
 
 class CategoryDetailsActivity : AppCompatActivity() {
     private lateinit var binding: ActivityCategoryDetailsBinding
+    private lateinit var database:ToolDataBase
     companion object{
         @JvmStatic
         lateinit var category:Category
@@ -22,8 +24,9 @@ class CategoryDetailsActivity : AppCompatActivity() {
 
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+        database = ToolDataBase.getInstance(this)
         binding.rvCatDetails.layoutManager = GridLayoutManager(this,2)
-        binding.rvCatDetails.adapter = ToolsAdapter(this, category.tools){
+        binding.rvCatDetails.adapter = ToolsAdapter(this, category.tools,database){
             item:Tool->itemClickListener(item)
         }
     }

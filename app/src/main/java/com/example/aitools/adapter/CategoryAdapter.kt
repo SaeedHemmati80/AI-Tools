@@ -9,13 +9,19 @@ import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.aitools.CategoryDetailsActivity
 import com.example.aitools.R
+import com.example.aitools.db.ToolDataBase
 import com.example.aitools.models.Category
 import com.example.aitools.models.Tool
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 
 class CategoryAdapter(
     private val lstCategory:List<Category>,
+    private val dataBase: ToolDataBase,
     private val clickListener: (cat: Category) -> Unit):
     RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
+
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -37,9 +43,15 @@ class CategoryAdapter(
             catName.text = cat.name
 
             cardCat.setOnClickListener {
-                CategoryDetailsActivity.category = lstCategory.filter { it.name.equals(cat.name)}[0]
+                CoroutineScope(Dispatchers.IO).launch {
+                    CategoryDetailsActivity.category = cat
+                    cat.tools.addAll(readCategoryTools(cat.name))
+                }
                 clickListener(cat)
             }
+        }
+        suspend fun readCategoryTools(categoryName:String):MutableList<Tool>{
+            return dataBase.toolDao.getCategoryTools(categoryName)
         }
     }
 }

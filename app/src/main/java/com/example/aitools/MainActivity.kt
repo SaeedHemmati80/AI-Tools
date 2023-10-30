@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun initRecyclerViewTools(){
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
-        adapter = ToolsAdapter(this,allTools ){ itemTool: Tool -> itemClickListener(itemTool)}
+        adapter = ToolsAdapter(this,allTools,database ){ itemTool: Tool -> itemClickListener(itemTool)}
         binding.rvTools.adapter = adapter
     }
 
