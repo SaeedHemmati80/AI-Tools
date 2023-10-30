@@ -6,7 +6,7 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.example.aitools.models.Tool
 
-@Database(entities = [Tool::class], version = 1)
+@Database(entities = [Tool::class,], version = 1)
 abstract class ToolDataBase : RoomDatabase() {
     abstract val toolDao: ToolDao
 
@@ -25,7 +25,6 @@ abstract class ToolDataBase : RoomDatabase() {
                 }
                 return instance
             }
-
         }
     }
 }

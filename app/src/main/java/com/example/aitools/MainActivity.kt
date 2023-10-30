@@ -2,16 +2,21 @@ package com.example.aitools
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityMainBinding
+import com.example.aitools.db.ToolDataBase
 import com.example.aitools.json.ToolJsonObject
 import com.example.aitools.models.Category
 import com.example.aitools.models.Tool
 import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 
 
 class MainActivity : AppCompatActivity() {
@@ -19,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var adapter: ToolsAdapter
     lateinit var categoriesMain:MutableList<Category>
     private var allTools:MutableList<Tool> = mutableListOf()
-
+    private lateinit var database:ToolDataBase
 
 
 
@@ -28,6 +33,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+        database  = ToolDataBase.getInstance(this)
+        Log.d("404", "database: $database")
 
         categoriesMain = mutableListOf()
 
@@ -84,7 +91,10 @@ class MainActivity : AppCompatActivity() {
     private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): MutableList<Tool> {
 
         for(selected in jsonObjects){
-            val tool =  Tool(selected.title,selected.description, selected.image_url,false)
+            val tool =  Tool(0,selected.title,selected.description, selected.image_url,false,selected.categories)
+            CoroutineScope(Dispatchers.IO).launch {
+                database.toolDao.insertTool(tool)
+            }
             insertToolToCategory(tool,selected.categories)
         }
         val allTools:MutableList<Tool> = mutableListOf()
