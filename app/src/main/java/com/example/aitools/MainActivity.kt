@@ -22,7 +22,6 @@ import kotlinx.coroutines.launch
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var adapter: ToolsAdapter
-    lateinit var categoriesMain:MutableList<Category>
     private var allTools:MutableList<Tool> = mutableListOf()
     private lateinit var database:ToolDataBase
 
@@ -34,24 +33,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         database  = ToolDataBase.getInstance(this)
-        Log.d("404", "database: $database")
 
-        categoriesMain = mutableListOf()
 
-        //LETS READ JSON FROM STRING===================
-        val fileName = "tool_data1.json";
-        val allTools = readJsonObjectsFromString(fileName)
-        //NOW GET UNIQUE CATS FROM all JSONS=========================
-        allTools.stream().map {it.categories }
-            .distinct()
-            .forEach { categoriesMain.add(Category(it))}
-
-        initRecyclerViewTools(allTools)
+        //Get All Tools
+        CoroutineScope(Dispatchers.IO).launch {
+            allTools.addAll(readAllData())
+        }
+        Log.d("ALL TOOLS SIZE:", "onCreate: ${allTools.size}")
+        initRecyclerViewTools()
 
         binding.topAppBar.setOnMenuItemClickListener {
             when(it.itemId){
                 R.id.categories_menu ->{
-                    CategoryActivity.categories = categoriesMain
                     CategoryActivity.mainAdapter = adapter
                     val intent = Intent(this, CategoryActivity::class.java)
                     startActivity(intent)
@@ -71,43 +64,14 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-
-    private fun readJsonObjectsFromString(fileName:String):List<ToolJsonObject>{
-        val jsonString = application.assets.open(fileName).bufferedReader().use{ it.readText() }
-        val objectMapper = ObjectMapper()
-        val allTools = objectMapper.readValue<List<ToolJsonObject>>(
-            jsonString,
-            object : TypeReference<List<ToolJsonObject?>?>() {})
-        return allTools
+    private suspend fun readAllData():MutableList<Tool>{
+        return database.toolDao.getAllTool();
     }
 
-    private fun initRecyclerViewTools(toolsJsonObject:List<ToolJsonObject>){
+    private fun initRecyclerViewTools(){
         binding.rvTools.layoutManager = GridLayoutManager(this, 2)
-        allTools = setData(categoriesMain,toolsJsonObject)
         adapter = ToolsAdapter(this,allTools ){ itemTool: Tool -> itemClickListener(itemTool)}
         binding.rvTools.adapter = adapter
-    }
-
-    private fun setData(categories:List<Category>,jsonObjects:List<ToolJsonObject>): MutableList<Tool> {
-
-        for(selected in jsonObjects){
-            val tool =  Tool(0,selected.title,selected.description, selected.image_url,false,selected.categories)
-            CoroutineScope(Dispatchers.IO).launch {
-                database.toolDao.insertTool(tool)
-            }
-            insertToolToCategory(tool,selected.categories)
-        }
-        val allTools:MutableList<Tool> = mutableListOf()
-        for(category in categories){
-            for(item in category.tools){
-                allTools.add(item)
-            }
-        }
-        return allTools
-    }
-
-    private fun insertToolToCategory(tool:Tool,category:String){
-        val category = categoriesMain.filter { it->it.name.equals(category) }.first().tools.add(tool)
     }
 
     private fun itemClickListener(tool: Tool){

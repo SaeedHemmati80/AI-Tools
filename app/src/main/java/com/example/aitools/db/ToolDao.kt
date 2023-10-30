@@ -20,5 +20,5 @@ interface ToolDao {
     suspend fun deleteTool(tool: Tool)
 
     @Query("SELECT * FROM tool_tbl")
-    suspend fun getAllTool(): List<Tool>
+    suspend fun getAllTool(): MutableList<Tool>
 }
