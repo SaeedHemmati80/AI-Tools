@@ -34,7 +34,6 @@ class FavActivity : AppCompatActivity() {
     }
 
     private fun itemClickListener(tool: Tool){
-        //Toast.makeText(this, tool.title, Toast.LENGTH_SHORT).show()
 
         val intent = Intent(this@FavActivity, DetailsActivity::class.java)
         intent.putExtra("Title", tool.title)

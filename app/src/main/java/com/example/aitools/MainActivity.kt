@@ -3,8 +3,10 @@ package com.example.aitools
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.view.View
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.search.SearchView
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityMainBinding
@@ -24,8 +26,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var adapter: ToolsAdapter
     private var allTools:MutableList<Tool> = mutableListOf()
     private lateinit var database:ToolDataBase
-
-
+    private var menuVisibility:Boolean = true
 
     @RequiresApi(34)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -56,6 +57,20 @@ class MainActivity : AppCompatActivity() {
                     FavActivity.mainToolsAdapter = adapter
                     val intent = Intent(this, FavActivity::class.java)
                     startActivity(intent)
+                    true
+                }
+
+                R.id.search_menu -> {
+                    //When Search Icon touched, lets Invisible Category and Favorite Menu
+                    menuVisibility = !menuVisibility
+                    val menuItem = binding.topAppBar.menu.findItem(R.id.categories_menu)
+                    menuItem.isVisible = menuVisibility
+                    val menuItem2 = binding.topAppBar.menu.findItem(R.id.fav_menu)
+                    menuItem2.isVisible = menuVisibility
+
+                    binding.searchView.visibility = if(!menuVisibility) View.VISIBLE else View.INVISIBLE
+                    binding.searchView.
+
                     true
                 }
                 else -> false

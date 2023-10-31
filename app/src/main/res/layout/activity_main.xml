@@ -22,7 +22,17 @@
             android:background="@color/blue"
             android:minHeight="?attr/actionBarSize"
             app:menu="@menu/top_app_menu"
-            app:title="AI Tools" />
+            app:title="AI Tools" >
+
+            <SearchView
+                android:id="@+id/searchView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:iconifiedByDefault="false"
+                android:visibility="gone"
+                android:queryHint="Search Here" />
+        </com.google.android.material.appbar.MaterialToolbar>
 
     </com.google.android.material.appbar.AppBarLayout>
 
