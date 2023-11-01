@@ -6,7 +6,7 @@ import android.util.Log
 import android.view.View
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.search.SearchView
+import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityMainBinding
@@ -19,6 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.newSingleThreadContext
 
 
 class MainActivity : AppCompatActivity() {
@@ -62,14 +63,20 @@ class MainActivity : AppCompatActivity() {
 
                 R.id.search_menu -> {
                     //When Search Icon touched, lets Invisible Category and Favorite Menu
-                    menuVisibility = !menuVisibility
-                    val menuItem = binding.topAppBar.menu.findItem(R.id.categories_menu)
-                    menuItem.isVisible = menuVisibility
-                    val menuItem2 = binding.topAppBar.menu.findItem(R.id.fav_menu)
-                    menuItem2.isVisible = menuVisibility
+                    val menuItem = binding.topAppBar.menu.findItem(R.id.search_menu)
+                    val searchView = menuItem.actionView as SearchView
+                    searchView.setOnQueryTextListener(object: SearchView.OnQueryTextListener{
+                        override fun onQueryTextSubmit(query: String?): Boolean {
+                            return false
 
-                    binding.searchView.visibility = if(!menuVisibility) View.VISIBLE else View.INVISIBLE
-                    binding.searchView.
+                        }
+
+                        override fun onQueryTextChange(newText: String?): Boolean {
+                            filterBy(newText)
+                            return false
+                        }
+
+                    })
 
                     true
                 }
@@ -77,6 +84,19 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+    }
+
+    private fun filterBy(msg:String?){
+        if(msg!=null){
+
+            val filtered = allTools
+                .filter { it.title.lowercase().contains(msg.lowercase())}
+                .toMutableList()
+
+            if(filtered.isNotEmpty()){
+                adapter.filterList(filtered)
+            }
+        }
     }
 
     private suspend fun readAllData():MutableList<Tool>{

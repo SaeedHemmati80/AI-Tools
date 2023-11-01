@@ -17,7 +17,7 @@ import kotlinx.coroutines.launch
 
 class ToolsAdapter(
     private val context: Context,
-    private val lstTools: List<Tool>,
+    private var lstTools: List<Tool>,
     private val database:ToolDataBase,
     private val clickListener: (tool: Tool) -> Unit
 ) : RecyclerView.Adapter<ToolsAdapter.ViewHolder>() {
@@ -46,6 +46,11 @@ class ToolsAdapter(
 
     override fun getItemCount(): Int {
         return lstTools.size
+    }
+
+    fun filterList(filteredList: MutableList<Tool>) {
+        lstTools = filteredList
+        notifyDataSetChanged()
     }
 
     inner class ViewHolder(private val binding: ToolItemBinding) :
