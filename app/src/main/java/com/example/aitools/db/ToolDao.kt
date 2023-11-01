@@ -33,4 +33,7 @@ interface ToolDao {
 
     @Query("SELECT * FROM tool_tbl WHERE tool_isFavorite = 1 ")
     suspend fun getFavoriteItems():MutableList<Tool>
+
+    @Query("SELECT COUNT(*) FROM tool_tbl")
+    suspend fun getDataSize():Int
 }

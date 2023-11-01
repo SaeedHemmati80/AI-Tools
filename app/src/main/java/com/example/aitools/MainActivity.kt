@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityMainBinding
 import com.example.aitools.db.ToolDataBase
+import com.example.aitools.json.JsonUtil
 import com.example.aitools.json.ToolJsonObject
 import com.example.aitools.models.Category
 import com.example.aitools.models.Tool
@@ -27,7 +28,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var adapter: ToolsAdapter
     private var allTools:MutableList<Tool> = mutableListOf()
     private lateinit var database:ToolDataBase
-    private var menuVisibility:Boolean = true
 
     @RequiresApi(34)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -36,10 +36,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         database  = ToolDataBase.getInstance(this)
 
-
+        CoroutineScope(Dispatchers.IO).launch {
+            insertJsonToDatabase()
+        }
         //Get All Tools
         CoroutineScope(Dispatchers.IO).launch {
-            allTools.addAll(readAllData())
+           allTools.addAll(readAllData())
         }
         Log.d("ALL TOOLS SIZE:", "onCreate: ${allTools.size}")
         initRecyclerViewTools()
@@ -98,7 +100,13 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+    private suspend fun insertJsonToDatabase(){
+        //if database is Empty, Read All Data From Json File To Database
 
+        if(database.toolDao.getDataSize()==0) {
+            JsonUtil.insertToolJsonToDb(allTools, "tool_data1.json", database, application)
+        }
+    }
     private suspend fun readAllData():MutableList<Tool>{
         return database.toolDao.getAllTool();
     }
