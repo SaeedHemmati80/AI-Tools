@@ -1,5 +1,7 @@
 #AI Tools Screenshot
 
+AI tools gives information about artificial intelligence tools
+
 <p float="left">
     <img src="./screenshot app/ai_1.jpg" height="350" width="200">
     <img src="./screenshot app/ai_2.jpg" height="350" width="200">
