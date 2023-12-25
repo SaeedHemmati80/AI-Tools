@@ -1,7 +1,7 @@
 #AI Tools Screenshot
 
-AI tools gives information about artificial intelligence tools
-Data Binding-Retrofit-Room-Glide
+#AI tools gives information about artificial intelligence tools
+#Data Binding-Retrofit-Room-Glide
 
 <p float="left">
     <img src="./screenshot app/ai_1.jpg" height="350" width="200">
