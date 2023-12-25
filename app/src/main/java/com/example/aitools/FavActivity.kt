@@ -1,8 +1,9 @@
 package com.example.aitools
 
+import android.annotation.SuppressLint
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.aitools.adapter.ToolsAdapter
 import com.example.aitools.databinding.ActivityFavBinding
@@ -43,6 +44,8 @@ class FavActivity : AppCompatActivity() {
 
     }
 
+    @Deprecated("Deprecated in Java")
+    @SuppressLint("NotifyDataSetChanged")
     override fun onBackPressed() {
         mainToolsAdapter.notifyDataSetChanged()
         super.onBackPressed()
