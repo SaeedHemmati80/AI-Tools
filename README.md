@@ -1,8 +1,8 @@
-#AI Tools Screenshot
+<h1>AI Tools Screenshot</h1>
 
-#AI tools gives information about artificial intelligence tools
+<h3>AI tools gives information about artificial intelligence tools</h3>
 
-#Data Binding-Retrofit-Room-Glide
+<h3>Data Binding-Retrofit-Room-Glide</h3>
 
 <p float="left">
     <img src="./screenshot app/ai_1.jpg" height="350" width="200">
